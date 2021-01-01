@@ -1,0 +1,2835 @@
+date,areaType,areaCode,areaName,newCasesBySpecimenDate
+"2020-12-28",region,E12000001,North East,132
+"2020-12-27",region,E12000001,North East,1100
+"2020-12-26",region,E12000001,North East,883
+"2020-12-25",region,E12000001,North East,266
+"2020-12-24",region,E12000001,North East,704
+"2020-12-23",region,E12000001,North East,1020
+"2020-12-22",region,E12000001,North East,1107
+"2020-12-21",region,E12000001,North East,982
+"2020-12-20",region,E12000001,North East,739
+"2020-12-19",region,E12000001,North East,605
+"2020-12-18",region,E12000001,North East,782
+"2020-12-17",region,E12000001,North East,628
+"2020-12-16",region,E12000001,North East,813
+"2020-12-15",region,E12000001,North East,888
+"2020-12-14",region,E12000001,North East,876
+"2020-12-13",region,E12000001,North East,572
+"2020-12-12",region,E12000001,North East,507
+"2020-12-11",region,E12000001,North East,650
+"2020-12-10",region,E12000001,North East,647
+"2020-12-09",region,E12000001,North East,644
+"2020-12-08",region,E12000001,North East,725
+"2020-12-07",region,E12000001,North East,758
+"2020-12-06",region,E12000001,North East,511
+"2020-12-05",region,E12000001,North East,413
+"2020-12-04",region,E12000001,North East,557
+"2020-12-03",region,E12000001,North East,591
+"2020-12-02",region,E12000001,North East,643
+"2020-12-01",region,E12000001,North East,647
+"2020-11-30",region,E12000001,North East,766
+"2020-11-29",region,E12000001,North East,455
+"2020-11-28",region,E12000001,North East,494
+"2020-11-27",region,E12000001,North East,638
+"2020-11-26",region,E12000001,North East,704
+"2020-11-25",region,E12000001,North East,804
+"2020-11-24",region,E12000001,North East,853
+"2020-11-23",region,E12000001,North East,973
+"2020-11-22",region,E12000001,North East,625
+"2020-11-21",region,E12000001,North East,678
+"2020-11-20",region,E12000001,North East,942
+"2020-11-19",region,E12000001,North East,1024
+"2020-11-18",region,E12000001,North East,1341
+"2020-11-17",region,E12000001,North East,1469
+"2020-11-16",region,E12000001,North East,1571
+"2020-11-15",region,E12000001,North East,1052
+"2020-11-14",region,E12000001,North East,1051
+"2020-11-13",region,E12000001,North East,1511
+"2020-11-12",region,E12000001,North East,1534
+"2020-11-11",region,E12000001,North East,1859
+"2020-11-10",region,E12000001,North East,1778
+"2020-11-09",region,E12000001,North East,2055
+"2020-11-08",region,E12000001,North East,1295
+"2020-11-07",region,E12000001,North East,1345
+"2020-11-06",region,E12000001,North East,1460
+"2020-11-05",region,E12000001,North East,1485
+"2020-11-04",region,E12000001,North East,1415
+"2020-11-03",region,E12000001,North East,1518
+"2020-11-02",region,E12000001,North East,1672
+"2020-11-01",region,E12000001,North East,994
+"2020-10-31",region,E12000001,North East,885
+"2020-10-30",region,E12000001,North East,1210
+"2020-10-29",region,E12000001,North East,1122
+"2020-10-28",region,E12000001,North East,1171
+"2020-10-27",region,E12000001,North East,1176
+"2020-10-26",region,E12000001,North East,1318
+"2020-10-25",region,E12000001,North East,848
+"2020-10-24",region,E12000001,North East,861
+"2020-10-23",region,E12000001,North East,1039
+"2020-10-22",region,E12000001,North East,1227
+"2020-10-21",region,E12000001,North East,1506
+"2020-10-20",region,E12000001,North East,1433
+"2020-10-19",region,E12000001,North East,1410
+"2020-10-18",region,E12000001,North East,825
+"2020-10-17",region,E12000001,North East,807
+"2020-10-16",region,E12000001,North East,1079
+"2020-10-15",region,E12000001,North East,1168
+"2020-10-14",region,E12000001,North East,1388
+"2020-10-13",region,E12000001,North East,1296
+"2020-10-12",region,E12000001,North East,1386
+"2020-10-11",region,E12000001,North East,931
+"2020-10-10",region,E12000001,North East,843
+"2020-10-09",region,E12000001,North East,1178
+"2020-10-08",region,E12000001,North East,1377
+"2020-10-07",region,E12000001,North East,1473
+"2020-10-06",region,E12000001,North East,1442
+"2020-10-05",region,E12000001,North East,1374
+"2020-10-04",region,E12000001,North East,1199
+"2020-10-03",region,E12000001,North East,1164
+"2020-10-02",region,E12000001,North East,1216
+"2020-10-01",region,E12000001,North East,1183
+"2020-09-30",region,E12000001,North East,963
+"2020-09-29",region,E12000001,North East,1046
+"2020-09-28",region,E12000001,North East,969
+"2020-09-27",region,E12000001,North East,660
+"2020-09-26",region,E12000001,North East,778
+"2020-09-25",region,E12000001,North East,607
+"2020-09-24",region,E12000001,North East,719
+"2020-09-23",region,E12000001,North East,640
+"2020-09-22",region,E12000001,North East,549
+"2020-09-21",region,E12000001,North East,610
+"2020-09-20",region,E12000001,North East,590
+"2020-09-19",region,E12000001,North East,434
+"2020-09-18",region,E12000001,North East,463
+"2020-09-17",region,E12000001,North East,370
+"2020-09-16",region,E12000001,North East,328
+"2020-09-15",region,E12000001,North East,263
+"2020-09-14",region,E12000001,North East,196
+"2020-09-13",region,E12000001,North East,141
+"2020-09-12",region,E12000001,North East,156
+"2020-09-11",region,E12000001,North East,200
+"2020-09-10",region,E12000001,North East,236
+"2020-09-09",region,E12000001,North East,234
+"2020-09-08",region,E12000001,North East,224
+"2020-09-07",region,E12000001,North East,203
+"2020-09-06",region,E12000001,North East,170
+"2020-09-05",region,E12000001,North East,233
+"2020-09-04",region,E12000001,North East,176
+"2020-09-03",region,E12000001,North East,204
+"2020-09-02",region,E12000001,North East,127
+"2020-09-01",region,E12000001,North East,118
+"2020-08-31",region,E12000001,North East,91
+"2020-08-30",region,E12000001,North East,61
+"2020-08-29",region,E12000001,North East,78
+"2020-08-28",region,E12000001,North East,67
+"2020-08-27",region,E12000001,North East,66
+"2020-08-26",region,E12000001,North East,68
+"2020-08-25",region,E12000001,North East,49
+"2020-08-24",region,E12000001,North East,39
+"2020-08-23",region,E12000001,North East,23
+"2020-08-22",region,E12000001,North East,33
+"2020-08-21",region,E12000001,North East,42
+"2020-08-20",region,E12000001,North East,43
+"2020-08-19",region,E12000001,North East,46
+"2020-08-18",region,E12000001,North East,36
+"2020-08-17",region,E12000001,North East,32
+"2020-08-16",region,E12000001,North East,11
+"2020-08-15",region,E12000001,North East,18
+"2020-08-14",region,E12000001,North East,31
+"2020-08-13",region,E12000001,North East,53
+"2020-08-12",region,E12000001,North East,39
+"2020-08-11",region,E12000001,North East,45
+"2020-08-10",region,E12000001,North East,21
+"2020-08-09",region,E12000001,North East,15
+"2020-08-08",region,E12000001,North East,12
+"2020-08-07",region,E12000001,North East,15
+"2020-08-06",region,E12000001,North East,24
+"2020-08-05",region,E12000001,North East,30
+"2020-08-04",region,E12000001,North East,20
+"2020-08-03",region,E12000001,North East,19
+"2020-08-02",region,E12000001,North East,16
+"2020-08-01",region,E12000001,North East,9
+"2020-07-31",region,E12000001,North East,12
+"2020-07-30",region,E12000001,North East,15
+"2020-07-29",region,E12000001,North East,21
+"2020-07-28",region,E12000001,North East,5
+"2020-07-27",region,E12000001,North East,9
+"2020-07-26",region,E12000001,North East,6
+"2020-07-25",region,E12000001,North East,5
+"2020-07-24",region,E12000001,North East,7
+"2020-07-23",region,E12000001,North East,8
+"2020-07-22",region,E12000001,North East,16
+"2020-07-21",region,E12000001,North East,14
+"2020-07-20",region,E12000001,North East,11
+"2020-07-19",region,E12000001,North East,7
+"2020-07-18",region,E12000001,North East,4
+"2020-07-17",region,E12000001,North East,10
+"2020-07-16",region,E12000001,North East,15
+"2020-07-15",region,E12000001,North East,16
+"2020-07-14",region,E12000001,North East,12
+"2020-07-13",region,E12000001,North East,9
+"2020-07-12",region,E12000001,North East,3
+"2020-07-11",region,E12000001,North East,7
+"2020-07-10",region,E12000001,North East,10
+"2020-07-09",region,E12000001,North East,17
+"2020-07-08",region,E12000001,North East,12
+"2020-07-07",region,E12000001,North East,12
+"2020-07-06",region,E12000001,North East,11
+"2020-07-05",region,E12000001,North East,4
+"2020-07-04",region,E12000001,North East,9
+"2020-07-03",region,E12000001,North East,8
+"2020-07-02",region,E12000001,North East,9
+"2020-07-01",region,E12000001,North East,7
+"2020-06-30",region,E12000001,North East,11
+"2020-06-29",region,E12000001,North East,11
+"2020-06-28",region,E12000001,North East,9
+"2020-06-27",region,E12000001,North East,13
+"2020-06-26",region,E12000001,North East,8
+"2020-06-25",region,E12000001,North East,12
+"2020-06-24",region,E12000001,North East,11
+"2020-06-23",region,E12000001,North East,26
+"2020-06-22",region,E12000001,North East,24
+"2020-06-21",region,E12000001,North East,4
+"2020-06-20",region,E12000001,North East,17
+"2020-06-19",region,E12000001,North East,14
+"2020-06-18",region,E12000001,North East,23
+"2020-06-17",region,E12000001,North East,19
+"2020-06-16",region,E12000001,North East,18
+"2020-06-15",region,E12000001,North East,32
+"2020-06-14",region,E12000001,North East,31
+"2020-06-13",region,E12000001,North East,31
+"2020-06-12",region,E12000001,North East,40
+"2020-06-11",region,E12000001,North East,23
+"2020-06-10",region,E12000001,North East,38
+"2020-06-09",region,E12000001,North East,40
+"2020-06-08",region,E12000001,North East,34
+"2020-06-07",region,E12000001,North East,17
+"2020-06-06",region,E12000001,North East,28
+"2020-06-05",region,E12000001,North East,42
+"2020-06-04",region,E12000001,North East,59
+"2020-06-03",region,E12000001,North East,51
+"2020-06-02",region,E12000001,North East,59
+"2020-06-01",region,E12000001,North East,70
+"2020-05-31",region,E12000001,North East,46
+"2020-05-30",region,E12000001,North East,46
+"2020-05-29",region,E12000001,North East,70
+"2020-05-28",region,E12000001,North East,49
+"2020-05-27",region,E12000001,North East,116
+"2020-05-26",region,E12000001,North East,100
+"2020-05-25",region,E12000001,North East,59
+"2020-05-24",region,E12000001,North East,76
+"2020-05-23",region,E12000001,North East,76
+"2020-05-22",region,E12000001,North East,95
+"2020-05-21",region,E12000001,North East,130
+"2020-05-20",region,E12000001,North East,131
+"2020-05-19",region,E12000001,North East,124
+"2020-05-18",region,E12000001,North East,147
+"2020-05-17",region,E12000001,North East,98
+"2020-05-16",region,E12000001,North East,126
+"2020-05-15",region,E12000001,North East,137
+"2020-05-14",region,E12000001,North East,139
+"2020-05-13",region,E12000001,North East,142
+"2020-05-12",region,E12000001,North East,220
+"2020-05-11",region,E12000001,North East,229
+"2020-05-10",region,E12000001,North East,150
+"2020-05-09",region,E12000001,North East,151
+"2020-05-08",region,E12000001,North East,158
+"2020-05-07",region,E12000001,North East,199
+"2020-05-06",region,E12000001,North East,243
+"2020-05-05",region,E12000001,North East,252
+"2020-05-04",region,E12000001,North East,234
+"2020-05-03",region,E12000001,North East,162
+"2020-05-02",region,E12000001,North East,183
+"2020-05-01",region,E12000001,North East,273
+"2020-04-30",region,E12000001,North East,384
+"2020-04-29",region,E12000001,North East,357
+"2020-04-28",region,E12000001,North East,361
+"2020-04-27",region,E12000001,North East,281
+"2020-04-26",region,E12000001,North East,159
+"2020-04-25",region,E12000001,North East,215
+"2020-04-24",region,E12000001,North East,332
+"2020-04-23",region,E12000001,North East,333
+"2020-04-22",region,E12000001,North East,362
+"2020-04-21",region,E12000001,North East,288
+"2020-04-20",region,E12000001,North East,315
+"2020-04-19",region,E12000001,North East,276
+"2020-04-18",region,E12000001,North East,379
+"2020-04-17",region,E12000001,North East,291
+"2020-04-16",region,E12000001,North East,295
+"2020-04-15",region,E12000001,North East,284
+"2020-04-14",region,E12000001,North East,256
+"2020-04-13",region,E12000001,North East,232
+"2020-04-12",region,E12000001,North East,201
+"2020-04-11",region,E12000001,North East,267
+"2020-04-10",region,E12000001,North East,245
+"2020-04-09",region,E12000001,North East,314
+"2020-04-08",region,E12000001,North East,289
+"2020-04-07",region,E12000001,North East,349
+"2020-04-06",region,E12000001,North East,375
+"2020-04-05",region,E12000001,North East,222
+"2020-04-04",region,E12000001,North East,254
+"2020-04-03",region,E12000001,North East,260
+"2020-04-02",region,E12000001,North East,219
+"2020-04-01",region,E12000001,North East,307
+"2020-03-31",region,E12000001,North East,211
+"2020-03-30",region,E12000001,North East,176
+"2020-03-29",region,E12000001,North East,107
+"2020-03-28",region,E12000001,North East,113
+"2020-03-27",region,E12000001,North East,102
+"2020-03-26",region,E12000001,North East,97
+"2020-03-25",region,E12000001,North East,76
+"2020-03-24",region,E12000001,North East,76
+"2020-03-23",region,E12000001,North East,58
+"2020-03-22",region,E12000001,North East,20
+"2020-03-21",region,E12000001,North East,23
+"2020-03-20",region,E12000001,North East,26
+"2020-03-19",region,E12000001,North East,19
+"2020-03-18",region,E12000001,North East,14
+"2020-03-17",region,E12000001,North East,16
+"2020-03-16",region,E12000001,North East,7
+"2020-03-15",region,E12000001,North East,10
+"2020-03-14",region,E12000001,North East,6
+"2020-03-13",region,E12000001,North East,6
+"2020-03-12",region,E12000001,North East,2
+"2020-03-11",region,E12000001,North East,1
+"2020-03-10",region,E12000001,North East,4
+"2020-03-09",region,E12000001,North East,3
+"2020-03-08",region,E12000001,North East,0
+"2020-03-07",region,E12000001,North East,2
+"2020-03-06",region,E12000001,North East,1
+"2020-03-05",region,E12000001,North East,2
+"2020-03-04",region,E12000001,North East,1
+"2020-03-03",region,E12000001,North East,0
+"2020-03-02",region,E12000001,North East,1
+"2020-12-28",region,E12000002,North West,820
+"2020-12-27",region,E12000002,North West,2899
+"2020-12-26",region,E12000002,North West,2431
+"2020-12-25",region,E12000002,North West,845
+"2020-12-24",region,E12000002,North West,2145
+"2020-12-23",region,E12000002,North West,2785
+"2020-12-22",region,E12000002,North West,2761
+"2020-12-21",region,E12000002,North West,3046
+"2020-12-20",region,E12000002,North West,1947
+"2020-12-19",region,E12000002,North West,1657
+"2020-12-18",region,E12000002,North West,2096
+"2020-12-17",region,E12000002,North West,1948
+"2020-12-16",region,E12000002,North West,2031
+"2020-12-15",region,E12000002,North West,2121
+"2020-12-14",region,E12000002,North West,2237
+"2020-12-13",region,E12000002,North West,1321
+"2020-12-12",region,E12000002,North West,1254
+"2020-12-11",region,E12000002,North West,1642
+"2020-12-10",region,E12000002,North West,1646
+"2020-12-09",region,E12000002,North West,1596
+"2020-12-08",region,E12000002,North West,1572
+"2020-12-07",region,E12000002,North West,1839
+"2020-12-06",region,E12000002,North West,1135
+"2020-12-05",region,E12000002,North West,998
+"2020-12-04",region,E12000002,North West,1453
+"2020-12-03",region,E12000002,North West,1353
+"2020-12-02",region,E12000002,North West,1449
+"2020-12-01",region,E12000002,North West,1708
+"2020-11-30",region,E12000002,North West,1881
+"2020-11-29",region,E12000002,North West,1055
+"2020-11-28",region,E12000002,North West,1140
+"2020-11-27",region,E12000002,North West,1430
+"2020-11-26",region,E12000002,North West,1597
+"2020-11-25",region,E12000002,North West,1835
+"2020-11-24",region,E12000002,North West,1859
+"2020-11-23",region,E12000002,North West,2179
+"2020-11-22",region,E12000002,North West,1384
+"2020-11-21",region,E12000002,North West,1378
+"2020-11-20",region,E12000002,North West,1984
+"2020-11-19",region,E12000002,North West,2178
+"2020-11-18",region,E12000002,North West,2577
+"2020-11-17",region,E12000002,North West,3048
+"2020-11-16",region,E12000002,North West,3370
+"2020-11-15",region,E12000002,North West,2119
+"2020-11-14",region,E12000002,North West,2374
+"2020-11-13",region,E12000002,North West,3226
+"2020-11-12",region,E12000002,North West,3418
+"2020-11-11",region,E12000002,North West,3914
+"2020-11-10",region,E12000002,North West,3901
+"2020-11-09",region,E12000002,North West,4713
+"2020-11-08",region,E12000002,North West,3176
+"2020-11-07",region,E12000002,North West,2809
+"2020-11-06",region,E12000002,North West,3854
+"2020-11-05",region,E12000002,North West,3912
+"2020-12-28",region,E12000007,London,346
+"2020-11-04",region,E12000002,North West,4088
+"2020-12-27",region,E12000007,London,6310
+"2020-12-26",region,E12000007,London,9753
+"2020-12-25",region,E12000007,London,4164
+"2020-12-24",region,E12000007,London,7820
+"2020-12-23",region,E12000007,London,11739
+"2020-12-22",region,E12000007,London,13041
+"2020-12-21",region,E12000007,London,13091
+"2020-11-03",region,E12000002,North West,4442
+"2020-11-02",region,E12000002,North West,5938
+"2020-11-01",region,E12000002,North West,3065
+"2020-10-31",region,E12000002,North West,3144
+"2020-12-19",region,E12000007,London,7087
+"2020-12-18",region,E12000007,London,10748
+"2020-10-30",region,E12000002,North West,4373
+"2020-10-29",region,E12000002,North West,4545
+"2020-10-28",region,E12000002,North West,4647
+"2020-10-27",region,E12000002,North West,4942
+"2020-10-26",region,E12000002,North West,5540
+"2020-10-25",region,E12000002,North West,3283
+"2020-10-24",region,E12000002,North West,3392
+"2020-10-23",region,E12000002,North West,4481
+"2020-12-17",region,E12000007,London,10111
+"2020-12-16",region,E12000007,London,9896
+"2020-12-15",region,E12000007,London,8806
+"2020-12-14",region,E12000007,London,8303
+"2020-12-13",region,E12000007,London,5498
+"2020-12-12",region,E12000007,London,4658
+"2020-12-11",region,E12000007,London,5462
+"2020-12-10",region,E12000007,London,4993
+"2020-10-22",region,E12000002,North West,4778
+"2020-10-21",region,E12000002,North West,5543
+"2020-10-20",region,E12000002,North West,5594
+"2020-10-19",region,E12000002,North West,6156
+"2020-10-18",region,E12000002,North West,3211
+"2020-10-17",region,E12000002,North West,3587
+"2020-10-16",region,E12000002,North West,3891
+"2020-12-09",region,E12000007,London,4409
+"2020-10-15",region,E12000002,North West,4169
+"2020-10-14",region,E12000002,North West,4475
+"2020-10-13",region,E12000002,North West,4282
+"2020-10-12",region,E12000002,North West,4761
+"2020-12-08",region,E12000007,London,3697
+"2020-12-07",region,E12000007,London,3703
+"2020-12-06",region,E12000007,London,2418
+"2020-12-05",region,E12000007,London,2272
+"2020-12-04",region,E12000007,London,2911
+"2020-12-03",region,E12000007,London,2436
+"2020-12-02",region,E12000007,London,2782
+"2020-10-11",region,E12000002,North West,2931
+"2020-10-10",region,E12000002,North West,2940
+"2020-10-09",region,E12000002,North West,3738
+"2020-10-08",region,E12000002,North West,4278
+"2020-10-07",region,E12000002,North West,4365
+"2020-10-06",region,E12000002,North West,4538
+"2020-10-05",region,E12000002,North West,4337
+"2020-10-04",region,E12000002,North West,2901
+"2020-10-03",region,E12000002,North West,2948
+"2020-10-02",region,E12000002,North West,3423
+"2020-10-01",region,E12000002,North West,3593
+"2020-09-30",region,E12000002,North West,3628
+"2020-09-29",region,E12000002,North West,3172
+"2020-09-28",region,E12000002,North West,2993
+"2020-09-27",region,E12000002,North West,2245
+"2020-09-26",region,E12000002,North West,2018
+"2020-09-25",region,E12000002,North West,2218
+"2020-09-24",region,E12000002,North West,2212
+"2020-09-23",region,E12000002,North West,2159
+"2020-09-22",region,E12000002,North West,1972
+"2020-09-21",region,E12000002,North West,1477
+"2020-09-20",region,E12000002,North West,1562
+"2020-09-19",region,E12000002,North West,1510
+"2020-09-18",region,E12000002,North West,1398
+"2020-12-01",region,E12000007,London,2446
+"2020-09-17",region,E12000002,North West,1405
+"2020-09-16",region,E12000002,North West,1447
+"2020-09-15",region,E12000002,North West,1067
+"2020-09-14",region,E12000002,North West,1049
+"2020-09-13",region,E12000002,North West,613
+"2020-09-12",region,E12000002,North West,759
+"2020-11-30",region,E12000007,London,2690
+"2020-11-29",region,E12000007,London,1650
+"2020-11-28",region,E12000007,London,1636
+"2020-11-27",region,E12000007,London,2195
+"2020-11-26",region,E12000007,London,2064
+"2020-11-25",region,E12000007,London,2234
+"2020-11-24",region,E12000007,London,2145
+"2020-11-23",region,E12000007,London,2387
+"2020-11-22",region,E12000007,London,1479
+"2020-11-21",region,E12000007,London,1473
+"2020-11-20",region,E12000007,London,2107
+"2020-11-19",region,E12000007,London,2177
+"2020-11-18",region,E12000007,London,2453
+"2020-11-17",region,E12000007,London,2558
+"2020-09-11",region,E12000002,North West,875
+"2020-09-10",region,E12000002,North West,912
+"2020-09-09",region,E12000002,North West,838
+"2020-09-08",region,E12000002,North West,858
+"2020-09-07",region,E12000002,North West,959
+"2020-09-06",region,E12000002,North West,573
+"2020-09-05",region,E12000002,North West,541
+"2020-11-16",region,E12000007,London,3070
+"2020-11-15",region,E12000007,London,1801
+"2020-11-14",region,E12000007,London,1921
+"2020-11-13",region,E12000007,London,2687
+"2020-09-04",region,E12000002,North West,633
+"2020-11-12",region,E12000007,London,2838
+"2020-09-03",region,E12000002,North West,630
+"2020-11-11",region,E12000007,London,2910
+"2020-11-10",region,E12000007,London,2721
+"2020-09-02",region,E12000002,North West,666
+"2020-09-01",region,E12000002,North West,450
+"2020-08-31",region,E12000002,North West,264
+"2020-08-30",region,E12000002,North West,255
+"2020-11-09",region,E12000007,London,3079
+"2020-11-08",region,E12000007,London,1755
+"2020-11-07",region,E12000007,London,1647
+"2020-11-06",region,E12000007,London,2110
+"2020-11-05",region,E12000007,London,2088
+"2020-11-04",region,E12000007,London,2046
+"2020-11-03",region,E12000007,London,2125
+"2020-11-02",region,E12000007,London,2903
+"2020-11-01",region,E12000007,London,1204
+"2020-08-29",region,E12000002,North West,245
+"2020-08-28",region,E12000002,North West,358
+"2020-08-27",region,E12000002,North West,286
+"2020-08-26",region,E12000002,North West,284
+"2020-10-31",region,E12000007,London,1386
+"2020-10-30",region,E12000007,London,1869
+"2020-10-29",region,E12000007,London,2009
+"2020-08-25",region,E12000002,North West,212
+"2020-08-24",region,E12000002,North West,251
+"2020-08-23",region,E12000002,North West,118
+"2020-08-22",region,E12000002,North West,173
+"2020-08-21",region,E12000002,North West,210
+"2020-08-20",region,E12000002,North West,224
+"2020-08-19",region,E12000002,North West,253
+"2020-10-28",region,E12000007,London,1962
+"2020-08-18",region,E12000002,North West,191
+"2020-08-17",region,E12000002,North West,282
+"2020-10-27",region,E12000007,London,2086
+"2020-10-26",region,E12000007,London,2523
+"2020-10-25",region,E12000007,London,1290
+"2020-08-16",region,E12000002,North West,115
+"2020-08-15",region,E12000002,North West,156
+"2020-08-14",region,E12000002,North West,235
+"2020-08-13",region,E12000002,North West,235
+"2020-08-12",region,E12000002,North West,275
+"2020-08-11",region,E12000002,North West,308
+"2020-08-10",region,E12000002,North West,358
+"2020-10-24",region,E12000007,London,1433
+"2020-08-09",region,E12000002,North West,160
+"2020-10-23",region,E12000007,London,2005
+"2020-10-22",region,E12000007,London,2174
+"2020-10-21",region,E12000007,London,2357
+"2020-10-20",region,E12000007,London,2314
+"2020-10-19",region,E12000007,London,2331
+"2020-10-18",region,E12000007,London,1294
+"2020-10-17",region,E12000007,London,1104
+"2020-10-16",region,E12000007,London,1653
+"2020-08-08",region,E12000002,North West,214
+"2020-08-07",region,E12000002,North West,240
+"2020-08-06",region,E12000002,North West,279
+"2020-08-05",region,E12000002,North West,261
+"2020-08-04",region,E12000002,North West,278
+"2020-08-03",region,E12000002,North West,300
+"2020-08-02",region,E12000002,North West,168
+"2020-10-15",region,E12000007,London,1715
+"2020-10-14",region,E12000007,London,1620
+"2020-10-13",region,E12000007,London,1423
+"2020-10-12",region,E12000007,London,1573
+"2020-10-11",region,E12000007,London,742
+"2020-10-10",region,E12000007,London,871
+"2020-08-01",region,E12000002,North West,158
+"2020-07-31",region,E12000002,North West,178
+"2020-07-30",region,E12000002,North West,221
+"2020-10-09",region,E12000007,London,1345
+"2020-10-08",region,E12000007,London,1476
+"2020-10-07",region,E12000007,London,1401
+"2020-10-06",region,E12000007,London,1167
+"2020-10-05",region,E12000007,London,1287
+"2020-10-04",region,E12000007,London,819
+"2020-10-03",region,E12000007,London,789
+"2020-10-02",region,E12000007,London,1036
+"2020-07-29",region,E12000002,North West,288
+"2020-07-28",region,E12000002,North West,198
+"2020-07-27",region,E12000002,North West,190
+"2020-10-01",region,E12000007,London,1067
+"2020-09-30",region,E12000007,London,987
+"2020-09-29",region,E12000007,London,699
+"2020-07-26",region,E12000002,North West,158
+"2020-07-25",region,E12000002,North West,137
+"2020-07-24",region,E12000002,North West,158
+"2020-07-23",region,E12000002,North West,183
+"2020-07-22",region,E12000002,North West,208
+"2020-07-21",region,E12000002,North West,157
+"2020-09-28",region,E12000007,London,740
+"2020-07-20",region,E12000002,North West,164
+"2020-07-19",region,E12000002,North West,93
+"2020-07-18",region,E12000002,North West,106
+"2020-07-17",region,E12000002,North West,110
+"2020-09-27",region,E12000007,London,529
+"2020-09-26",region,E12000007,London,548
+"2020-09-25",region,E12000007,London,604
+"2020-09-24",region,E12000007,London,599
+"2020-07-16",region,E12000002,North West,149
+"2020-07-15",region,E12000002,North West,146
+"2020-07-14",region,E12000002,North West,109
+"2020-09-23",region,E12000007,London,658
+"2020-07-13",region,E12000002,North West,105
+"2020-07-12",region,E12000002,North West,54
+"2020-07-11",region,E12000002,North West,79
+"2020-07-10",region,E12000002,North West,88
+"2020-07-09",region,E12000002,North West,130
+"2020-07-08",region,E12000002,North West,115
+"2020-07-07",region,E12000002,North West,94
+"2020-07-06",region,E12000002,North West,142
+"2020-07-05",region,E12000002,North West,115
+"2020-07-04",region,E12000002,North West,72
+"2020-07-03",region,E12000002,North West,98
+"2020-09-22",region,E12000007,London,519
+"2020-09-21",region,E12000007,London,428
+"2020-09-20",region,E12000007,London,410
+"2020-07-02",region,E12000002,North West,98
+"2020-07-01",region,E12000002,North West,114
+"2020-06-30",region,E12000002,North West,102
+"2020-06-29",region,E12000002,North West,123
+"2020-06-28",region,E12000002,North West,93
+"2020-09-19",region,E12000007,London,339
+"2020-09-18",region,E12000007,London,387
+"2020-06-27",region,E12000002,North West,93
+"2020-06-26",region,E12000002,North West,105
+"2020-06-25",region,E12000002,North West,126
+"2020-06-24",region,E12000002,North West,159
+"2020-09-17",region,E12000007,London,323
+"2020-06-23",region,E12000002,North West,127
+"2020-06-22",region,E12000002,North West,157
+"2020-06-21",region,E12000002,North West,98
+"2020-06-20",region,E12000002,North West,118
+"2020-06-19",region,E12000002,North West,162
+"2020-06-18",region,E12000002,North West,179
+"2020-06-17",region,E12000002,North West,185
+"2020-09-16",region,E12000007,London,293
+"2020-09-15",region,E12000007,London,269
+"2020-06-16",region,E12000002,North West,211
+"2020-06-15",region,E12000002,North West,165
+"2020-09-14",region,E12000007,London,300
+"2020-09-13",region,E12000007,London,112
+"2020-09-12",region,E12000007,London,230
+"2020-09-11",region,E12000007,London,332
+"2020-09-10",region,E12000007,London,391
+"2020-09-09",region,E12000007,London,343
+"2020-09-08",region,E12000007,London,343
+"2020-09-07",region,E12000007,London,462
+"2020-09-06",region,E12000007,London,205
+"2020-09-05",region,E12000007,London,270
+"2020-06-14",region,E12000002,North West,148
+"2020-09-04",region,E12000007,London,355
+"2020-09-03",region,E12000007,London,347
+"2020-09-02",region,E12000007,London,333
+"2020-06-13",region,E12000002,North West,127
+"2020-09-01",region,E12000007,London,314
+"2020-06-12",region,E12000002,North West,170
+"2020-06-11",region,E12000002,North West,177
+"2020-06-10",region,E12000002,North West,225
+"2020-06-09",region,E12000002,North West,218
+"2020-08-31",region,E12000007,London,216
+"2020-06-08",region,E12000002,North West,165
+"2020-08-30",region,E12000007,London,133
+"2020-06-07",region,E12000002,North West,128
+"2020-08-29",region,E12000007,London,139
+"2020-08-28",region,E12000007,London,220
+"2020-08-27",region,E12000007,London,229
+"2020-08-26",region,E12000007,London,164
+"2020-08-25",region,E12000007,London,170
+"2020-08-24",region,E12000007,London,195
+"2020-08-23",region,E12000007,London,143
+"2020-08-22",region,E12000007,London,118
+"2020-06-06",region,E12000002,North West,132
+"2020-08-21",region,E12000007,London,166
+"2020-06-05",region,E12000002,North West,204
+"2020-06-04",region,E12000002,North West,241
+"2020-08-20",region,E12000007,London,204
+"2020-06-03",region,E12000002,North West,256
+"2020-08-19",region,E12000007,London,152
+"2020-08-18",region,E12000007,London,181
+"2020-08-17",region,E12000007,London,189
+"2020-08-16",region,E12000007,London,88
+"2020-06-02",region,E12000002,North West,287
+"2020-06-01",region,E12000002,North West,260
+"2020-05-31",region,E12000002,North West,233
+"2020-05-30",region,E12000002,North West,216
+"2020-08-15",region,E12000007,London,106
+"2020-08-14",region,E12000007,London,126
+"2020-08-13",region,E12000007,London,124
+"2020-08-12",region,E12000007,London,161
+"2020-08-11",region,E12000007,London,149
+"2020-05-29",region,E12000002,North West,302
+"2020-05-28",region,E12000002,North West,324
+"2020-05-27",region,E12000002,North West,295
+"2020-05-26",region,E12000002,North West,309
+"2020-05-25",region,E12000002,North West,268
+"2020-05-24",region,E12000002,North West,263
+"2020-05-23",region,E12000002,North West,289
+"2020-05-22",region,E12000002,North West,376
+"2020-05-21",region,E12000002,North West,427
+"2020-05-20",region,E12000002,North West,497
+"2020-05-19",region,E12000002,North West,583
+"2020-05-18",region,E12000002,North West,409
+"2020-05-17",region,E12000002,North West,300
+"2020-08-10",region,E12000007,London,143
+"2020-08-09",region,E12000007,London,67
+"2020-08-08",region,E12000007,London,55
+"2020-08-07",region,E12000007,London,122
+"2020-08-06",region,E12000007,London,105
+"2020-08-05",region,E12000007,London,114
+"2020-08-04",region,E12000007,London,104
+"2020-05-16",region,E12000002,North West,407
+"2020-05-15",region,E12000002,North West,392
+"2020-05-14",region,E12000002,North West,427
+"2020-05-13",region,E12000002,North West,526
+"2020-05-12",region,E12000002,North West,549
+"2020-05-11",region,E12000002,North West,531
+"2020-05-10",region,E12000002,North West,346
+"2020-05-09",region,E12000002,North West,344
+"2020-05-08",region,E12000002,North West,482
+"2020-05-07",region,E12000002,North West,508
+"2020-08-03",region,E12000007,London,87
+"2020-08-02",region,E12000007,London,76
+"2020-08-01",region,E12000007,London,58
+"2020-07-31",region,E12000007,London,73
+"2020-07-30",region,E12000007,London,102
+"2020-07-29",region,E12000007,London,99
+"2020-07-28",region,E12000007,London,100
+"2020-07-27",region,E12000007,London,100
+"2020-07-26",region,E12000007,London,65
+"2020-07-25",region,E12000007,London,56
+"2020-07-24",region,E12000007,London,83
+"2020-07-23",region,E12000007,London,70
+"2020-07-22",region,E12000007,London,79
+"2020-07-21",region,E12000007,London,82
+"2020-05-06",region,E12000002,North West,585
+"2020-07-20",region,E12000007,London,97
+"2020-07-19",region,E12000007,London,41
+"2020-07-18",region,E12000007,London,48
+"2020-07-17",region,E12000007,London,48
+"2020-05-05",region,E12000002,North West,576
+"2020-07-16",region,E12000007,London,70
+"2020-07-15",region,E12000007,London,76
+"2020-07-14",region,E12000007,London,62
+"2020-07-13",region,E12000007,London,85
+"2020-07-12",region,E12000007,London,38
+"2020-07-11",region,E12000007,London,19
+"2020-07-10",region,E12000007,London,40
+"2020-07-09",region,E12000007,London,54
+"2020-07-08",region,E12000007,London,57
+"2020-07-07",region,E12000007,London,60
+"2020-05-04",region,E12000002,North West,427
+"2020-07-06",region,E12000007,London,54
+"2020-07-05",region,E12000007,London,51
+"2020-05-03",region,E12000002,North West,492
+"2020-07-04",region,E12000007,London,32
+"2020-07-03",region,E12000007,London,38
+"2020-07-02",region,E12000007,London,40
+"2020-05-02",region,E12000002,North West,412
+"2020-05-01",region,E12000002,North West,727
+"2020-04-30",region,E12000002,North West,773
+"2020-04-29",region,E12000002,North West,795
+"2020-04-28",region,E12000002,North West,710
+"2020-04-27",region,E12000002,North West,622
+"2020-04-26",region,E12000002,North West,428
+"2020-04-25",region,E12000002,North West,549
+"2020-04-24",region,E12000002,North West,750
+"2020-04-23",region,E12000002,North West,858
+"2020-04-22",region,E12000002,North West,913
+"2020-07-01",region,E12000007,London,42
+"2020-04-21",region,E12000002,North West,693
+"2020-06-30",region,E12000007,London,52
+"2020-06-29",region,E12000007,London,58
+"2020-06-28",region,E12000007,London,22
+"2020-06-27",region,E12000007,London,32
+"2020-06-26",region,E12000007,London,48
+"2020-04-20",region,E12000002,North West,673
+"2020-04-19",region,E12000002,North West,607
+"2020-06-25",region,E12000007,London,57
+"2020-06-24",region,E12000007,London,46
+"2020-04-18",region,E12000002,North West,863
+"2020-06-23",region,E12000007,London,48
+"2020-06-22",region,E12000007,London,51
+"2020-06-21",region,E12000007,London,27
+"2020-06-20",region,E12000007,London,29
+"2020-06-19",region,E12000007,London,37
+"2020-06-18",region,E12000007,London,46
+"2020-06-17",region,E12000007,London,42
+"2020-04-17",region,E12000002,North West,579
+"2020-04-16",region,E12000002,North West,778
+"2020-04-15",region,E12000002,North West,696
+"2020-04-14",region,E12000002,North West,633
+"2020-06-16",region,E12000007,London,46
+"2020-04-13",region,E12000002,North West,609
+"2020-04-12",region,E12000002,North West,489
+"2020-04-11",region,E12000002,North West,611
+"2020-04-10",region,E12000002,North West,602
+"2020-04-09",region,E12000002,North West,804
+"2020-04-08",region,E12000002,North West,853
+"2020-04-07",region,E12000002,North West,792
+"2020-04-06",region,E12000002,North West,875
+"2020-04-05",region,E12000002,North West,627
+"2020-06-15",region,E12000007,London,41
+"2020-04-04",region,E12000002,North West,602
+"2020-04-03",region,E12000002,North West,682
+"2020-04-02",region,E12000002,North West,678
+"2020-04-01",region,E12000002,North West,619
+"2020-06-14",region,E12000007,London,31
+"2020-06-13",region,E12000007,London,39
+"2020-06-12",region,E12000007,London,53
+"2020-06-11",region,E12000007,London,47
+"2020-06-10",region,E12000007,London,52
+"2020-06-09",region,E12000007,London,71
+"2020-06-08",region,E12000007,London,56
+"2020-06-07",region,E12000007,London,45
+"2020-06-06",region,E12000007,London,47
+"2020-06-05",region,E12000007,London,46
+"2020-06-04",region,E12000007,London,57
+"2020-06-03",region,E12000007,London,79
+"2020-06-02",region,E12000007,London,49
+"2020-06-01",region,E12000007,London,49
+"2020-05-31",region,E12000007,London,38
+"2020-05-30",region,E12000007,London,39
+"2020-03-31",region,E12000002,North West,556
+"2020-05-29",region,E12000007,London,58
+"2020-05-28",region,E12000007,London,74
+"2020-05-27",region,E12000007,London,84
+"2020-05-26",region,E12000007,London,65
+"2020-05-25",region,E12000007,London,58
+"2020-05-24",region,E12000007,London,50
+"2020-05-23",region,E12000007,London,65
+"2020-05-22",region,E12000007,London,83
+"2020-05-21",region,E12000007,London,157
+"2020-05-20",region,E12000007,London,143
+"2020-05-19",region,E12000007,London,128
+"2020-05-18",region,E12000007,London,113
+"2020-05-17",region,E12000007,London,79
+"2020-05-16",region,E12000007,London,75
+"2020-03-30",region,E12000002,North West,507
+"2020-03-29",region,E12000002,North West,359
+"2020-03-28",region,E12000002,North West,322
+"2020-03-27",region,E12000002,North West,333
+"2020-05-15",region,E12000007,London,132
+"2020-05-14",region,E12000007,London,158
+"2020-05-13",region,E12000007,London,204
+"2020-05-12",region,E12000007,London,193
+"2020-05-11",region,E12000007,London,160
+"2020-05-10",region,E12000007,London,125
+"2020-05-09",region,E12000007,London,128
+"2020-05-08",region,E12000007,London,206
+"2020-05-07",region,E12000007,London,270
+"2020-03-26",region,E12000002,North West,358
+"2020-03-25",region,E12000002,North West,255
+"2020-03-24",region,E12000002,North West,255
+"2020-03-23",region,E12000002,North West,175
+"2020-05-06",region,E12000007,London,270
+"2020-05-05",region,E12000007,London,217
+"2020-03-22",region,E12000002,North West,117
+"2020-05-04",region,E12000007,London,246
+"2020-03-21",region,E12000002,North West,115
+"2020-05-03",region,E12000007,London,168
+"2020-03-20",region,E12000002,North West,82
+"2020-03-19",region,E12000002,North West,98
+"2020-03-18",region,E12000002,North West,84
+"2020-05-02",region,E12000007,London,248
+"2020-05-01",region,E12000007,London,355
+"2020-03-17",region,E12000002,North West,55
+"2020-04-30",region,E12000007,London,424
+"2020-04-29",region,E12000007,London,428
+"2020-04-28",region,E12000007,London,312
+"2020-04-27",region,E12000007,London,419
+"2020-04-26",region,E12000007,London,311
+"2020-03-16",region,E12000002,North West,56
+"2020-03-15",region,E12000002,North West,24
+"2020-04-25",region,E12000007,London,333
+"2020-04-24",region,E12000007,London,378
+"2020-04-23",region,E12000007,London,524
+"2020-04-22",region,E12000007,London,399
+"2020-04-21",region,E12000007,London,467
+"2020-03-14",region,E12000002,North West,25
+"2020-03-13",region,E12000002,North West,43
+"2020-03-12",region,E12000002,North West,40
+"2020-03-11",region,E12000002,North West,17
+"2020-03-10",region,E12000002,North West,15
+"2020-03-09",region,E12000002,North West,7
+"2020-03-08",region,E12000002,North West,5
+"2020-03-07",region,E12000002,North West,9
+"2020-03-06",region,E12000002,North West,2
+"2020-04-20",region,E12000007,London,437
+"2020-04-19",region,E12000007,London,395
+"2020-04-18",region,E12000007,London,401
+"2020-04-17",region,E12000007,London,579
+"2020-03-05",region,E12000002,North West,10
+"2020-03-04",region,E12000002,North West,2
+"2020-03-03",region,E12000002,North West,7
+"2020-03-02",region,E12000002,North West,6
+"2020-04-16",region,E12000007,London,578
+"2020-04-15",region,E12000007,London,660
+"2020-04-14",region,E12000007,London,600
+"2020-04-13",region,E12000007,London,602
+"2020-04-12",region,E12000007,London,501
+"2020-04-11",region,E12000007,London,523
+"2020-04-10",region,E12000007,London,619
+"2020-04-09",region,E12000007,London,800
+"2020-04-08",region,E12000007,London,875
+"2020-04-07",region,E12000007,London,952
+"2020-04-06",region,E12000007,London,860
+"2020-04-05",region,E12000007,London,632
+"2020-04-04",region,E12000007,London,765
+"2020-04-03",region,E12000007,London,983
+"2020-03-01",region,E12000002,North West,7
+"2020-04-02",region,E12000007,London,1069
+"2020-04-01",region,E12000007,London,979
+"2020-03-31",region,E12000007,London,935
+"2020-03-30",region,E12000007,London,868
+"2020-02-29",region,E12000002,North West,0
+"2020-03-29",region,E12000007,London,596
+"2020-02-28",region,E12000002,North West,1
+"2020-02-27",region,E12000002,North West,0
+"2020-02-26",region,E12000002,North West,0
+"2020-03-28",region,E12000007,London,577
+"2020-03-27",region,E12000007,London,818
+"2020-03-26",region,E12000007,London,766
+"2020-03-25",region,E12000007,London,757
+"2020-03-24",region,E12000007,London,636
+"2020-02-25",region,E12000002,North West,0
+"2020-02-24",region,E12000002,North West,0
+"2020-03-23",region,E12000007,London,689
+"2020-03-22",region,E12000007,London,437
+"2020-03-21",region,E12000007,London,351
+"2020-03-20",region,E12000007,London,426
+"2020-03-19",region,E12000007,London,332
+"2020-03-18",region,E12000007,London,356
+"2020-02-23",region,E12000002,North West,0
+"2020-03-17",region,E12000007,London,311
+"2020-02-22",region,E12000002,North West,1
+"2020-03-16",region,E12000007,London,234
+"2020-03-15",region,E12000007,London,165
+"2020-03-14",region,E12000007,London,150
+"2020-03-13",region,E12000007,London,135
+"2020-03-12",region,E12000007,London,164
+"2020-03-11",region,E12000007,London,183
+"2020-03-10",region,E12000007,London,92
+"2020-03-09",region,E12000007,London,52
+"2020-03-08",region,E12000007,London,22
+"2020-03-07",region,E12000007,London,15
+"2020-03-06",region,E12000007,London,24
+"2020-03-05",region,E12000007,London,14
+"2020-03-04",region,E12000007,London,18
+"2020-03-03",region,E12000007,London,6
+"2020-03-02",region,E12000007,London,12
+"2020-03-01",region,E12000007,London,4
+"2020-02-29",region,E12000007,London,1
+"2020-02-28",region,E12000007,London,3
+"2020-02-27",region,E12000007,London,2
+"2020-02-26",region,E12000007,London,2
+"2020-02-25",region,E12000007,London,3
+"2020-02-24",region,E12000007,London,1
+"2020-02-23",region,E12000007,London,0
+"2020-02-22",region,E12000007,London,0
+"2020-02-21",region,E12000007,London,0
+"2020-02-20",region,E12000007,London,0
+"2020-02-19",region,E12000007,London,0
+"2020-02-18",region,E12000007,London,0
+"2020-02-17",region,E12000007,London,0
+"2020-02-16",region,E12000007,London,0
+"2020-02-15",region,E12000007,London,0
+"2020-02-14",region,E12000007,London,0
+"2020-02-13",region,E12000007,London,0
+"2020-02-12",region,E12000007,London,0
+"2020-02-11",region,E12000007,London,1
+"2020-12-28",region,E12000006,East of England,137
+"2020-12-27",region,E12000006,East of England,4216
+"2020-12-26",region,E12000006,East of England,5363
+"2020-12-25",region,E12000006,East of England,1643
+"2020-12-24",region,E12000006,East of England,3948
+"2020-12-23",region,E12000006,East of England,5788
+"2020-12-22",region,E12000006,East of England,6242
+"2020-12-21",region,E12000006,East of England,6615
+"2020-12-20",region,E12000006,East of England,4591
+"2020-12-19",region,E12000006,East of England,3393
+"2020-12-18",region,E12000006,East of England,5129
+"2020-12-17",region,E12000006,East of England,4619
+"2020-12-16",region,E12000006,East of England,4715
+"2020-12-15",region,E12000006,East of England,4342
+"2020-12-14",region,E12000006,East of England,4427
+"2020-12-13",region,E12000006,East of England,2753
+"2020-12-12",region,E12000006,East of England,2242
+"2020-12-11",region,E12000006,East of England,2679
+"2020-12-10",region,E12000006,East of England,2317
+"2020-12-09",region,E12000006,East of England,2251
+"2020-12-08",region,E12000006,East of England,2085
+"2020-12-07",region,E12000006,East of England,2193
+"2020-12-06",region,E12000006,East of England,1303
+"2020-12-05",region,E12000006,East of England,1184
+"2020-12-04",region,E12000006,East of England,1375
+"2020-12-03",region,E12000006,East of England,1337
+"2020-12-02",region,E12000006,East of England,1436
+"2020-12-01",region,E12000006,East of England,1284
+"2020-11-30",region,E12000006,East of England,1510
+"2020-11-29",region,E12000006,East of England,770
+"2020-11-28",region,E12000006,East of England,804
+"2020-11-27",region,E12000006,East of England,1133
+"2020-11-26",region,E12000006,East of England,1029
+"2020-11-25",region,E12000006,East of England,1204
+"2020-11-24",region,E12000006,East of England,1029
+"2020-11-23",region,E12000006,East of England,1234
+"2020-11-22",region,E12000006,East of England,805
+"2020-11-21",region,E12000006,East of England,801
+"2020-11-20",region,E12000006,East of England,1056
+"2020-11-19",region,E12000006,East of England,1180
+"2020-11-18",region,E12000006,East of England,1250
+"2020-11-17",region,E12000006,East of England,1319
+"2020-11-16",region,E12000006,East of England,1591
+"2020-11-15",region,E12000006,East of England,914
+"2020-11-14",region,E12000006,East of England,983
+"2020-11-13",region,E12000006,East of England,1364
+"2020-11-12",region,E12000006,East of England,1372
+"2020-11-11",region,E12000006,East of England,1607
+"2020-11-10",region,E12000006,East of England,1457
+"2020-11-09",region,E12000006,East of England,1797
+"2020-11-08",region,E12000006,East of England,1076
+"2020-11-07",region,E12000006,East of England,1009
+"2020-11-06",region,E12000006,East of England,1107
+"2020-11-05",region,E12000006,East of England,1116
+"2020-12-20",region,E12000007,London,8851
+"2020-11-04",region,E12000006,East of England,1044
+"2020-11-03",region,E12000006,East of England,1144
+"2020-11-02",region,E12000006,East of England,1375
+"2020-11-01",region,E12000006,East of England,633
+"2020-10-31",region,E12000006,East of England,724
+"2020-10-30",region,E12000006,East of England,994
+"2020-10-29",region,E12000006,East of England,972
+"2020-10-28",region,E12000006,East of England,1019
+"2020-10-27",region,E12000006,East of England,937
+"2020-10-26",region,E12000006,East of England,1145
+"2020-10-25",region,E12000006,East of England,569
+"2020-10-24",region,E12000006,East of England,599
+"2020-10-23",region,E12000006,East of England,991
+"2020-10-22",region,E12000006,East of England,996
+"2020-10-21",region,E12000006,East of England,1044
+"2020-10-20",region,E12000006,East of England,1093
+"2020-10-19",region,E12000006,East of England,1036
+"2020-10-18",region,E12000006,East of England,584
+"2020-10-17",region,E12000006,East of England,509
+"2020-10-16",region,E12000006,East of England,656
+"2020-10-15",region,E12000006,East of England,845
+"2020-10-14",region,E12000006,East of England,678
+"2020-10-13",region,E12000006,East of England,731
+"2020-10-12",region,E12000006,East of England,703
+"2020-10-11",region,E12000006,East of England,378
+"2020-10-10",region,E12000006,East of England,330
+"2020-10-09",region,E12000006,East of England,564
+"2020-10-08",region,E12000006,East of England,578
+"2020-10-07",region,E12000006,East of England,539
+"2020-10-06",region,E12000006,East of England,564
+"2020-10-05",region,E12000006,East of England,530
+"2020-10-04",region,E12000006,East of England,359
+"2020-10-03",region,E12000006,East of England,359
+"2020-10-02",region,E12000006,East of England,412
+"2020-10-01",region,E12000006,East of England,359
+"2020-09-30",region,E12000006,East of England,359
+"2020-09-29",region,E12000006,East of England,332
+"2020-09-28",region,E12000006,East of England,312
+"2020-09-27",region,E12000006,East of England,208
+"2020-09-26",region,E12000006,East of England,165
+"2020-09-25",region,E12000006,East of England,216
+"2020-09-24",region,E12000006,East of England,226
+"2020-09-23",region,E12000006,East of England,193
+"2020-09-22",region,E12000006,East of England,215
+"2020-09-21",region,E12000006,East of England,166
+"2020-09-20",region,E12000006,East of England,163
+"2020-12-28",region,E12000003,Yorkshire and The Humber,259
+"2020-09-19",region,E12000006,East of England,146
+"2020-09-18",region,E12000006,East of England,206
+"2020-09-17",region,E12000006,East of England,145
+"2020-09-16",region,E12000006,East of England,142
+"2020-09-15",region,E12000006,East of England,150
+"2020-09-14",region,E12000006,East of England,142
+"2020-09-13",region,E12000006,East of England,57
+"2020-09-12",region,E12000006,East of England,83
+"2020-12-27",region,E12000003,Yorkshire and The Humber,1631
+"2020-09-11",region,E12000006,East of England,129
+"2020-12-26",region,E12000003,Yorkshire and The Humber,1575
+"2020-09-10",region,E12000006,East of England,164
+"2020-12-25",region,E12000003,Yorkshire and The Humber,562
+"2020-12-24",region,E12000003,Yorkshire and The Humber,1188
+"2020-12-23",region,E12000003,Yorkshire and The Humber,1590
+"2020-12-22",region,E12000003,Yorkshire and The Humber,1844
+"2020-09-09",region,E12000006,East of England,127
+"2020-12-21",region,E12000003,Yorkshire and The Humber,1970
+"2020-09-08",region,E12000006,East of England,167
+"2020-12-20",region,E12000003,Yorkshire and The Humber,1414
+"2020-09-07",region,E12000006,East of England,154
+"2020-12-19",region,E12000003,Yorkshire and The Humber,1016
+"2020-12-18",region,E12000003,Yorkshire and The Humber,1450
+"2020-09-06",region,E12000006,East of England,79
+"2020-12-17",region,E12000003,Yorkshire and The Humber,1172
+"2020-09-05",region,E12000006,East of England,97
+"2020-12-16",region,E12000003,Yorkshire and The Humber,1224
+"2020-09-04",region,E12000006,East of England,119
+"2020-09-03",region,E12000006,East of England,152
+"2020-12-15",region,E12000003,Yorkshire and The Humber,1490
+"2020-09-02",region,E12000006,East of England,171
+"2020-12-14",region,E12000003,Yorkshire and The Humber,1719
+"2020-12-13",region,E12000003,Yorkshire and The Humber,1029
+"2020-12-12",region,E12000003,Yorkshire and The Humber,948
+"2020-12-11",region,E12000003,Yorkshire and The Humber,1231
+"2020-12-10",region,E12000003,Yorkshire and The Humber,1219
+"2020-09-01",region,E12000006,East of England,124
+"2020-12-09",region,E12000003,Yorkshire and The Humber,1338
+"2020-08-31",region,E12000006,East of England,101
+"2020-12-08",region,E12000003,Yorkshire and The Humber,1343
+"2020-12-07",region,E12000003,Yorkshire and The Humber,1405
+"2020-08-30",region,E12000006,East of England,87
+"2020-08-29",region,E12000006,East of England,80
+"2020-08-28",region,E12000006,East of England,102
+"2020-08-27",region,E12000006,East of England,121
+"2020-08-26",region,E12000006,East of England,93
+"2020-12-06",region,E12000003,Yorkshire and The Humber,864
+"2020-12-05",region,E12000003,Yorkshire and The Humber,878
+"2020-08-25",region,E12000006,East of England,100
+"2020-12-04",region,E12000003,Yorkshire and The Humber,1050
+"2020-08-24",region,E12000006,East of England,102
+"2020-08-23",region,E12000006,East of England,52
+"2020-08-22",region,E12000006,East of England,50
+"2020-08-21",region,E12000006,East of England,63
+"2020-08-20",region,E12000006,East of England,82
+"2020-08-19",region,E12000006,East of England,63
+"2020-12-03",region,E12000003,Yorkshire and The Humber,1153
+"2020-12-02",region,E12000003,Yorkshire and The Humber,1338
+"2020-08-18",region,E12000006,East of England,59
+"2020-08-17",region,E12000006,East of England,63
+"2020-08-16",region,E12000006,East of England,27
+"2020-08-15",region,E12000006,East of England,31
+"2020-12-01",region,E12000003,Yorkshire and The Humber,1485
+"2020-08-14",region,E12000006,East of England,67
+"2020-08-13",region,E12000006,East of England,61
+"2020-08-12",region,E12000006,East of England,66
+"2020-08-11",region,E12000006,East of England,47
+"2020-08-10",region,E12000006,East of England,67
+"2020-11-30",region,E12000003,Yorkshire and The Humber,1705
+"2020-11-29",region,E12000003,Yorkshire and The Humber,1038
+"2020-08-09",region,E12000006,East of England,23
+"2020-08-08",region,E12000006,East of England,44
+"2020-08-07",region,E12000006,East of England,68
+"2020-08-06",region,E12000006,East of England,45
+"2020-08-05",region,E12000006,East of England,53
+"2020-11-28",region,E12000003,Yorkshire and The Humber,1092
+"2020-08-04",region,E12000006,East of England,56
+"2020-11-27",region,E12000003,Yorkshire and The Humber,1310
+"2020-11-26",region,E12000003,Yorkshire and The Humber,1394
+"2020-08-03",region,E12000006,East of England,68
+"2020-08-02",region,E12000006,East of England,36
+"2020-08-01",region,E12000006,East of England,22
+"2020-11-25",region,E12000003,Yorkshire and The Humber,1610
+"2020-11-24",region,E12000003,Yorkshire and The Humber,1762
+"2020-11-23",region,E12000003,Yorkshire and The Humber,2059
+"2020-11-22",region,E12000003,Yorkshire and The Humber,1350
+"2020-07-31",region,E12000006,East of England,31
+"2020-11-21",region,E12000003,Yorkshire and The Humber,1366
+"2020-11-20",region,E12000003,Yorkshire and The Humber,1937
+"2020-11-19",region,E12000003,Yorkshire and The Humber,2089
+"2020-07-30",region,E12000006,East of England,52
+"2020-07-29",region,E12000006,East of England,66
+"2020-07-28",region,E12000006,East of England,56
+"2020-07-27",region,E12000006,East of England,65
+"2020-11-18",region,E12000003,Yorkshire and The Humber,2581
+"2020-07-26",region,E12000006,East of England,26
+"2020-07-25",region,E12000006,East of England,28
+"2020-07-24",region,E12000006,East of England,79
+"2020-07-23",region,E12000006,East of England,50
+"2020-11-17",region,E12000003,Yorkshire and The Humber,3057
+"2020-07-22",region,E12000006,East of England,54
+"2020-11-16",region,E12000003,Yorkshire and The Humber,3278
+"2020-11-15",region,E12000003,Yorkshire and The Humber,2094
+"2020-11-14",region,E12000003,Yorkshire and The Humber,2502
+"2020-07-21",region,E12000006,East of England,66
+"2020-11-13",region,E12000003,Yorkshire and The Humber,3076
+"2020-07-20",region,E12000006,East of England,81
+"2020-11-12",region,E12000003,Yorkshire and The Humber,3199
+"2020-11-11",region,E12000003,Yorkshire and The Humber,3703
+"2020-11-10",region,E12000003,Yorkshire and The Humber,3771
+"2020-11-09",region,E12000003,Yorkshire and The Humber,4490
+"2020-11-08",region,E12000003,Yorkshire and The Humber,2893
+"2020-11-07",region,E12000003,Yorkshire and The Humber,2833
+"2020-11-06",region,E12000003,Yorkshire and The Humber,3634
+"2020-07-19",region,E12000006,East of England,21
+"2020-11-05",region,E12000003,Yorkshire and The Humber,3586
+"2020-11-04",region,E12000003,Yorkshire and The Humber,3504
+"2020-11-03",region,E12000003,Yorkshire and The Humber,3947
+"2020-11-02",region,E12000003,Yorkshire and The Humber,4667
+"2020-11-01",region,E12000003,Yorkshire and The Humber,2820
+"2020-10-31",region,E12000003,Yorkshire and The Humber,2628
+"2020-10-30",region,E12000003,Yorkshire and The Humber,3465
+"2020-07-18",region,E12000006,East of England,29
+"2020-07-17",region,E12000006,East of England,51
+"2020-07-16",region,E12000006,East of England,61
+"2020-07-15",region,E12000006,East of England,55
+"2020-10-29",region,E12000003,Yorkshire and The Humber,3456
+"2020-10-28",region,E12000003,Yorkshire and The Humber,3579
+"2020-07-14",region,E12000006,East of England,81
+"2020-07-13",region,E12000006,East of England,64
+"2020-10-27",region,E12000003,Yorkshire and The Humber,3579
+"2020-07-12",region,E12000006,East of England,35
+"2020-10-26",region,E12000003,Yorkshire and The Humber,3849
+"2020-07-11",region,E12000006,East of England,42
+"2020-07-10",region,E12000006,East of England,49
+"2020-10-25",region,E12000003,Yorkshire and The Humber,2150
+"2020-10-24",region,E12000003,Yorkshire and The Humber,2250
+"2020-10-23",region,E12000003,Yorkshire and The Humber,2978
+"2020-10-22",region,E12000003,Yorkshire and The Humber,3300
+"2020-10-21",region,E12000003,Yorkshire and The Humber,3491
+"2020-10-20",region,E12000003,Yorkshire and The Humber,3565
+"2020-07-09",region,E12000006,East of England,54
+"2020-10-19",region,E12000003,Yorkshire and The Humber,3825
+"2020-10-18",region,E12000003,Yorkshire and The Humber,2217
+"2020-10-17",region,E12000003,Yorkshire and The Humber,2367
+"2020-10-16",region,E12000003,Yorkshire and The Humber,2433
+"2020-10-15",region,E12000003,Yorkshire and The Humber,2488
+"2020-10-14",region,E12000003,Yorkshire and The Humber,2773
+"2020-10-13",region,E12000003,Yorkshire and The Humber,2530
+"2020-10-12",region,E12000003,Yorkshire and The Humber,2744
+"2020-10-11",region,E12000003,Yorkshire and The Humber,1622
+"2020-10-10",region,E12000003,Yorkshire and The Humber,1916
+"2020-07-08",region,E12000006,East of England,77
+"2020-10-09",region,E12000003,Yorkshire and The Humber,1869
+"2020-10-08",region,E12000003,Yorkshire and The Humber,2425
+"2020-07-07",region,E12000006,East of England,39
+"2020-07-06",region,E12000006,East of England,56
+"2020-07-05",region,E12000006,East of England,36
+"2020-07-04",region,E12000006,East of England,42
+"2020-10-07",region,E12000003,Yorkshire and The Humber,2657
+"2020-10-06",region,E12000003,Yorkshire and The Humber,2415
+"2020-10-05",region,E12000003,Yorkshire and The Humber,2267
+"2020-07-03",region,E12000006,East of England,60
+"2020-10-04",region,E12000003,Yorkshire and The Humber,1677
+"2020-07-02",region,E12000006,East of England,63
+"2020-07-01",region,E12000006,East of England,40
+"2020-10-03",region,E12000003,Yorkshire and The Humber,1658
+"2020-06-30",region,E12000006,East of England,34
+"2020-06-29",region,E12000006,East of England,49
+"2020-10-02",region,E12000003,Yorkshire and The Humber,2205
+"2020-06-28",region,E12000006,East of England,25
+"2020-10-01",region,E12000003,Yorkshire and The Humber,2134
+"2020-06-27",region,E12000006,East of England,20
+"2020-09-30",region,E12000003,Yorkshire and The Humber,1787
+"2020-06-26",region,E12000006,East of England,59
+"2020-09-29",region,E12000003,Yorkshire and The Humber,1383
+"2020-06-25",region,E12000006,East of England,39
+"2020-06-24",region,E12000006,East of England,60
+"2020-06-23",region,E12000006,East of England,44
+"2020-06-22",region,E12000006,East of England,74
+"2020-09-28",region,E12000003,Yorkshire and The Humber,1450
+"2020-06-21",region,E12000006,East of England,57
+"2020-06-20",region,E12000006,East of England,31
+"2020-06-19",region,E12000006,East of England,74
+"2020-09-27",region,E12000003,Yorkshire and The Humber,1024
+"2020-06-18",region,E12000006,East of England,83
+"2020-06-17",region,E12000006,East of England,77
+"2020-09-26",region,E12000003,Yorkshire and The Humber,823
+"2020-09-25",region,E12000003,Yorkshire and The Humber,800
+"2020-09-24",region,E12000003,Yorkshire and The Humber,922
+"2020-09-23",region,E12000003,Yorkshire and The Humber,728
+"2020-09-22",region,E12000003,Yorkshire and The Humber,714
+"2020-09-21",region,E12000003,Yorkshire and The Humber,616
+"2020-09-20",region,E12000003,Yorkshire and The Humber,665
+"2020-09-19",region,E12000003,Yorkshire and The Humber,559
+"2020-09-18",region,E12000003,Yorkshire and The Humber,557
+"2020-09-17",region,E12000003,Yorkshire and The Humber,569
+"2020-09-16",region,E12000003,Yorkshire and The Humber,545
+"2020-09-15",region,E12000003,Yorkshire and The Humber,419
+"2020-09-14",region,E12000003,Yorkshire and The Humber,387
+"2020-06-16",region,E12000006,East of England,108
+"2020-06-15",region,E12000006,East of England,113
+"2020-06-14",region,E12000006,East of England,73
+"2020-06-13",region,E12000006,East of England,89
+"2020-06-12",region,E12000006,East of England,65
+"2020-06-11",region,E12000006,East of England,70
+"2020-06-10",region,E12000006,East of England,118
+"2020-06-09",region,E12000006,East of England,130
+"2020-06-08",region,E12000006,East of England,94
+"2020-06-07",region,E12000006,East of England,46
+"2020-06-06",region,E12000006,East of England,93
+"2020-06-05",region,E12000006,East of England,110
+"2020-06-04",region,E12000006,East of England,93
+"2020-09-13",region,E12000003,Yorkshire and The Humber,297
+"2020-06-03",region,E12000006,East of England,123
+"2020-09-12",region,E12000003,Yorkshire and The Humber,313
+"2020-09-11",region,E12000003,Yorkshire and The Humber,384
+"2020-09-10",region,E12000003,Yorkshire and The Humber,461
+"2020-09-09",region,E12000003,Yorkshire and The Humber,393
+"2020-09-08",region,E12000003,Yorkshire and The Humber,381
+"2020-09-07",region,E12000003,Yorkshire and The Humber,524
+"2020-09-06",region,E12000003,Yorkshire and The Humber,305
+"2020-06-02",region,E12000006,East of England,130
+"2020-06-01",region,E12000006,East of England,138
+"2020-09-05",region,E12000003,Yorkshire and The Humber,312
+"2020-05-31",region,E12000006,East of England,61
+"2020-09-04",region,E12000003,Yorkshire and The Humber,302
+"2020-05-30",region,E12000006,East of England,83
+"2020-05-29",region,E12000006,East of England,160
+"2020-09-03",region,E12000003,Yorkshire and The Humber,335
+"2020-09-02",region,E12000003,Yorkshire and The Humber,373
+"2020-09-01",region,E12000003,Yorkshire and The Humber,263
+"2020-08-31",region,E12000003,Yorkshire and The Humber,192
+"2020-05-28",region,E12000006,East of England,163
+"2020-05-27",region,E12000006,East of England,150
+"2020-05-26",region,E12000006,East of England,149
+"2020-05-25",region,E12000006,East of England,147
+"2020-05-24",region,E12000006,East of England,103
+"2020-08-30",region,E12000003,Yorkshire and The Humber,143
+"2020-08-29",region,E12000003,Yorkshire and The Humber,170
+"2020-08-28",region,E12000003,Yorkshire and The Humber,161
+"2020-08-27",region,E12000003,Yorkshire and The Humber,192
+"2020-08-26",region,E12000003,Yorkshire and The Humber,119
+"2020-05-23",region,E12000006,East of England,150
+"2020-05-22",region,E12000006,East of England,190
+"2020-08-25",region,E12000003,Yorkshire and The Humber,135
+"2020-08-24",region,E12000003,Yorkshire and The Humber,150
+"2020-05-21",region,E12000006,East of England,246
+"2020-08-23",region,E12000003,Yorkshire and The Humber,93
+"2020-05-20",region,E12000006,East of England,243
+"2020-05-19",region,E12000006,East of England,255
+"2020-05-18",region,E12000006,East of England,283
+"2020-05-17",region,E12000006,East of England,154
+"2020-05-16",region,E12000006,East of England,174
+"2020-05-15",region,E12000006,East of England,210
+"2020-08-22",region,E12000003,Yorkshire and The Humber,89
+"2020-08-21",region,E12000003,Yorkshire and The Humber,129
+"2020-05-14",region,E12000006,East of England,217
+"2020-05-13",region,E12000006,East of England,330
+"2020-05-12",region,E12000006,East of England,315
+"2020-08-20",region,E12000003,Yorkshire and The Humber,165
+"2020-08-19",region,E12000003,Yorkshire and The Humber,140
+"2020-05-11",region,E12000006,East of England,391
+"2020-08-18",region,E12000003,Yorkshire and The Humber,122
+"2020-08-17",region,E12000003,Yorkshire and The Humber,126
+"2020-08-16",region,E12000003,Yorkshire and The Humber,79
+"2020-08-15",region,E12000003,Yorkshire and The Humber,108
+"2020-08-14",region,E12000003,Yorkshire and The Humber,161
+"2020-08-13",region,E12000003,Yorkshire and The Humber,179
+"2020-05-10",region,E12000006,East of England,209
+"2020-05-09",region,E12000006,East of England,203
+"2020-05-08",region,E12000006,East of England,229
+"2020-05-07",region,E12000006,East of England,396
+"2020-08-12",region,E12000003,Yorkshire and The Humber,171
+"2020-05-06",region,E12000006,East of England,388
+"2020-08-11",region,E12000003,Yorkshire and The Humber,185
+"2020-08-10",region,E12000003,Yorkshire and The Humber,221
+"2020-08-09",region,E12000003,Yorkshire and The Humber,97
+"2020-08-08",region,E12000003,Yorkshire and The Humber,104
+"2020-08-07",region,E12000003,Yorkshire and The Humber,120
+"2020-08-06",region,E12000003,Yorkshire and The Humber,177
+"2020-05-05",region,E12000006,East of England,330
+"2020-08-05",region,E12000003,Yorkshire and The Humber,157
+"2020-05-04",region,E12000006,East of England,391
+"2020-08-04",region,E12000003,Yorkshire and The Humber,146
+"2020-05-03",region,E12000006,East of England,317
+"2020-08-03",region,E12000003,Yorkshire and The Humber,144
+"2020-05-02",region,E12000006,East of England,302
+"2020-08-02",region,E12000003,Yorkshire and The Humber,85
+"2020-08-01",region,E12000003,Yorkshire and The Humber,81
+"2020-07-31",region,E12000003,Yorkshire and The Humber,99
+"2020-07-30",region,E12000003,Yorkshire and The Humber,140
+"2020-05-01",region,E12000006,East of England,493
+"2020-04-30",region,E12000006,East of England,424
+"2020-04-29",region,E12000006,East of England,475
+"2020-04-28",region,E12000006,East of England,463
+"2020-04-27",region,E12000006,East of England,511
+"2020-04-26",region,E12000006,East of England,358
+"2020-07-29",region,E12000003,Yorkshire and The Humber,163
+"2020-07-28",region,E12000003,Yorkshire and The Humber,150
+"2020-07-27",region,E12000003,Yorkshire and The Humber,143
+"2020-04-25",region,E12000006,East of England,377
+"2020-04-24",region,E12000006,East of England,423
+"2020-12-28",region,E12000008,South East,264
+"2020-04-23",region,E12000006,East of England,476
+"2020-12-27",region,E12000008,South East,4456
+"2020-12-26",region,E12000008,South East,6429
+"2020-07-26",region,E12000003,Yorkshire and The Humber,91
+"2020-04-22",region,E12000006,East of England,522
+"2020-07-25",region,E12000003,Yorkshire and The Humber,88
+"2020-07-24",region,E12000003,Yorkshire and The Humber,108
+"2020-04-21",region,E12000006,East of England,406
+"2020-12-25",region,E12000008,South East,2247
+"2020-07-23",region,E12000003,Yorkshire and The Humber,106
+"2020-12-24",region,E12000008,South East,5301
+"2020-12-23",region,E12000008,South East,6724
+"2020-12-22",region,E12000008,South East,8249
+"2020-12-21",region,E12000008,South East,8791
+"2020-12-20",region,E12000008,South East,5963
+"2020-07-22",region,E12000003,Yorkshire and The Humber,103
+"2020-12-19",region,E12000008,South East,3959
+"2020-07-21",region,E12000003,Yorkshire and The Humber,100
+"2020-07-20",region,E12000003,Yorkshire and The Humber,115
+"2020-12-18",region,E12000008,South East,6234
+"2020-07-19",region,E12000003,Yorkshire and The Humber,101
+"2020-12-17",region,E12000008,South East,5908
+"2020-07-18",region,E12000003,Yorkshire and The Humber,97
+"2020-12-16",region,E12000008,South East,6018
+"2020-07-17",region,E12000003,Yorkshire and The Humber,100
+"2020-12-15",region,E12000008,South East,6033
+"2020-12-14",region,E12000008,South East,5988
+"2020-12-13",region,E12000008,South East,3684
+"2020-04-20",region,E12000006,East of England,362
+"2020-12-12",region,E12000008,South East,3284
+"2020-07-16",region,E12000003,Yorkshire and The Humber,86
+"2020-12-11",region,E12000008,South East,4074
+"2020-12-10",region,E12000008,South East,3583
+"2020-12-09",region,E12000008,South East,3234
+"2020-12-08",region,E12000008,South East,3138
+"2020-04-19",region,E12000006,East of England,317
+"2020-07-15",region,E12000003,Yorkshire and The Humber,119
+"2020-12-07",region,E12000008,South East,3286
+"2020-12-06",region,E12000008,South East,2028
+"2020-12-05",region,E12000008,South East,1883
+"2020-04-18",region,E12000006,East of England,329
+"2020-12-04",region,E12000008,South East,2332
+"2020-07-14",region,E12000003,Yorkshire and The Humber,133
+"2020-12-03",region,E12000008,South East,2286
+"2020-12-02",region,E12000008,South East,2276
+"2020-12-01",region,E12000008,South East,2279
+"2020-11-30",region,E12000008,South East,2409
+"2020-11-29",region,E12000008,South East,1464
+"2020-11-28",region,E12000008,South East,1457
+"2020-11-27",region,E12000008,South East,2055
+"2020-11-26",region,E12000008,South East,1756
+"2020-11-25",region,E12000008,South East,2043
+"2020-11-24",region,E12000008,South East,1967
+"2020-11-23",region,E12000008,South East,2381
+"2020-11-22",region,E12000008,South East,1290
+"2020-11-21",region,E12000008,South East,1471
+"2020-11-20",region,E12000008,South East,1886
+"2020-07-13",region,E12000003,Yorkshire and The Humber,135
+"2020-07-12",region,E12000003,Yorkshire and The Humber,98
+"2020-04-17",region,E12000006,East of England,365
+"2020-07-11",region,E12000003,Yorkshire and The Humber,86
+"2020-11-19",region,E12000008,South East,1890
+"2020-04-16",region,E12000006,East of England,337
+"2020-04-15",region,E12000006,East of England,295
+"2020-11-18",region,E12000008,South East,2258
+"2020-07-10",region,E12000003,Yorkshire and The Humber,92
+"2020-11-17",region,E12000008,South East,2282
+"2020-07-09",region,E12000003,Yorkshire and The Humber,97
+"2020-11-16",region,E12000008,South East,2994
+"2020-11-15",region,E12000008,South East,1686
+"2020-07-08",region,E12000003,Yorkshire and The Humber,126
+"2020-11-14",region,E12000008,South East,1804
+"2020-11-13",region,E12000008,South East,2727
+"2020-11-12",region,E12000008,South East,2618
+"2020-11-11",region,E12000008,South East,2715
+"2020-11-10",region,E12000008,South East,2599
+"2020-11-09",region,E12000008,South East,2987
+"2020-11-08",region,E12000008,South East,1953
+"2020-11-07",region,E12000008,South East,1712
+"2020-04-14",region,E12000006,East of England,289
+"2020-11-06",region,E12000008,South East,1920
+"2020-07-07",region,E12000003,Yorkshire and The Humber,103
+"2020-11-05",region,E12000008,South East,1917
+"2020-07-06",region,E12000003,Yorkshire and The Humber,120
+"2020-11-04",region,E12000008,South East,1938
+"2020-11-03",region,E12000008,South East,1964
+"2020-11-02",region,E12000008,South East,2519
+"2020-11-01",region,E12000008,South East,1008
+"2020-07-05",region,E12000003,Yorkshire and The Humber,90
+"2020-07-04",region,E12000003,Yorkshire and The Humber,78
+"2020-04-13",region,E12000006,East of England,292
+"2020-04-12",region,E12000006,East of England,260
+"2020-07-03",region,E12000003,Yorkshire and The Humber,106
+"2020-07-02",region,E12000003,Yorkshire and The Humber,104
+"2020-07-01",region,E12000003,Yorkshire and The Humber,131
+"2020-10-31",region,E12000008,South East,1209
+"2020-10-30",region,E12000008,South East,1692
+"2020-06-30",region,E12000003,Yorkshire and The Humber,112
+"2020-10-29",region,E12000008,South East,1704
+"2020-10-28",region,E12000008,South East,1627
+"2020-04-11",region,E12000006,East of England,271
+"2020-04-10",region,E12000006,East of England,320
+"2020-10-27",region,E12000008,South East,1700
+"2020-04-09",region,E12000006,East of England,326
+"2020-10-26",region,E12000008,South East,1856
+"2020-06-29",region,E12000003,Yorkshire and The Humber,133
+"2020-10-25",region,E12000008,South East,972
+"2020-10-24",region,E12000008,South East,1095
+"2020-04-08",region,E12000006,East of England,409
+"2020-10-23",region,E12000008,South East,1428
+"2020-10-22",region,E12000008,South East,1444
+"2020-10-21",region,E12000008,South East,1643
+"2020-10-20",region,E12000008,South East,1595
+"2020-10-19",region,E12000008,South East,1402
+"2020-10-18",region,E12000008,South East,758
+"2020-10-17",region,E12000008,South East,794
+"2020-04-07",region,E12000006,East of England,389
+"2020-04-06",region,E12000006,East of England,385
+"2020-06-28",region,E12000003,Yorkshire and The Humber,98
+"2020-06-27",region,E12000003,Yorkshire and The Humber,148
+"2020-06-26",region,E12000003,Yorkshire and The Humber,152
+"2020-10-16",region,E12000008,South East,955
+"2020-10-15",region,E12000008,South East,972
+"2020-06-25",region,E12000003,Yorkshire and The Humber,143
+"2020-10-14",region,E12000008,South East,1075
+"2020-06-24",region,E12000003,Yorkshire and The Humber,156
+"2020-06-23",region,E12000003,Yorkshire and The Humber,172
+"2020-06-22",region,E12000003,Yorkshire and The Humber,156
+"2020-06-21",region,E12000003,Yorkshire and The Humber,116
+"2020-06-20",region,E12000003,Yorkshire and The Humber,163
+"2020-06-19",region,E12000003,Yorkshire and The Humber,203
+"2020-06-18",region,E12000003,Yorkshire and The Humber,258
+"2020-06-17",region,E12000003,Yorkshire and The Humber,230
+"2020-10-13",region,E12000008,South East,1022
+"2020-04-05",region,E12000006,East of England,282
+"2020-04-04",region,E12000006,East of England,269
+"2020-04-03",region,E12000006,East of England,353
+"2020-04-02",region,E12000006,East of England,372
+"2020-04-01",region,E12000006,East of England,333
+"2020-06-16",region,E12000003,Yorkshire and The Humber,216
+"2020-03-31",region,E12000006,East of England,322
+"2020-03-30",region,E12000006,East of England,300
+"2020-03-29",region,E12000006,East of England,209
+"2020-03-28",region,E12000006,East of England,183
+"2020-10-12",region,E12000008,South East,865
+"2020-10-11",region,E12000008,South East,484
+"2020-10-10",region,E12000008,South East,560
+"2020-10-09",region,E12000008,South East,776
+"2020-03-27",region,E12000006,East of England,243
+"2020-03-26",region,E12000006,East of England,215
+"2020-10-08",region,E12000008,South East,965
+"2020-10-07",region,E12000008,South East,907
+"2020-10-06",region,E12000008,South East,679
+"2020-10-05",region,E12000008,South East,744
+"2020-10-04",region,E12000008,South East,560
+"2020-10-03",region,E12000008,South East,543
+"2020-10-02",region,E12000008,South East,631
+"2020-06-15",region,E12000003,Yorkshire and The Humber,189
+"2020-03-25",region,E12000006,East of England,188
+"2020-03-24",region,E12000006,East of England,165
+"2020-03-23",region,E12000006,East of England,194
+"2020-03-22",region,E12000006,East of England,90
+"2020-06-14",region,E12000003,Yorkshire and The Humber,159
+"2020-06-13",region,E12000003,Yorkshire and The Humber,193
+"2020-06-12",region,E12000003,Yorkshire and The Humber,246
+"2020-06-11",region,E12000003,Yorkshire and The Humber,197
+"2020-06-10",region,E12000003,Yorkshire and The Humber,226
+"2020-06-09",region,E12000003,Yorkshire and The Humber,173
+"2020-06-08",region,E12000003,Yorkshire and The Humber,187
+"2020-06-07",region,E12000003,Yorkshire and The Humber,150
+"2020-03-21",region,E12000006,East of England,78
+"2020-03-20",region,E12000006,East of England,70
+"2020-03-19",region,E12000006,East of England,57
+"2020-03-18",region,E12000006,East of England,74
+"2020-03-17",region,E12000006,East of England,38
+"2020-06-06",region,E12000003,Yorkshire and The Humber,121
+"2020-06-05",region,E12000003,Yorkshire and The Humber,156
+"2020-03-16",region,E12000006,East of England,24
+"2020-06-04",region,E12000003,Yorkshire and The Humber,179
+"2020-10-01",region,E12000008,South East,517
+"2020-06-03",region,E12000003,Yorkshire and The Humber,206
+"2020-03-15",region,E12000006,East of England,35
+"2020-09-30",region,E12000008,South East,488
+"2020-09-29",region,E12000008,South East,350
+"2020-06-02",region,E12000003,Yorkshire and The Humber,197
+"2020-09-28",region,E12000008,South East,371
+"2020-09-27",region,E12000008,South East,265
+"2020-06-01",region,E12000003,Yorkshire and The Humber,191
+"2020-05-31",region,E12000003,Yorkshire and The Humber,177
+"2020-09-26",region,E12000008,South East,216
+"2020-09-25",region,E12000008,South East,311
+"2020-09-24",region,E12000008,South East,289
+"2020-05-30",region,E12000003,Yorkshire and The Humber,164
+"2020-09-23",region,E12000008,South East,254
+"2020-09-22",region,E12000008,South East,263
+"2020-05-29",region,E12000003,Yorkshire and The Humber,199
+"2020-03-14",region,E12000006,East of England,16
+"2020-09-21",region,E12000008,South East,226
+"2020-05-28",region,E12000003,Yorkshire and The Humber,274
+"2020-09-20",region,E12000008,South East,175
+"2020-03-13",region,E12000006,East of England,37
+"2020-05-27",region,E12000003,Yorkshire and The Humber,254
+"2020-09-19",region,E12000008,South East,173
+"2020-05-26",region,E12000003,Yorkshire and The Humber,232
+"2020-03-12",region,E12000006,East of England,18
+"2020-05-25",region,E12000003,Yorkshire and The Humber,254
+"2020-05-24",region,E12000003,Yorkshire and The Humber,204
+"2020-09-18",region,E12000008,South East,193
+"2020-05-23",region,E12000003,Yorkshire and The Humber,235
+"2020-09-17",region,E12000008,South East,163
+"2020-09-16",region,E12000008,South East,147
+"2020-09-15",region,E12000008,South East,137
+"2020-09-14",region,E12000008,South East,148
+"2020-09-13",region,E12000008,South East,63
+"2020-09-12",region,E12000008,South East,136
+"2020-09-11",region,E12000008,South East,158
+"2020-09-10",region,E12000008,South East,214
+"2020-09-09",region,E12000008,South East,167
+"2020-09-08",region,E12000008,South East,186
+"2020-09-07",region,E12000008,South East,205
+"2020-09-06",region,E12000008,South East,180
+"2020-09-05",region,E12000008,South East,158
+"2020-09-04",region,E12000008,South East,226
+"2020-09-03",region,E12000008,South East,225
+"2020-09-02",region,E12000008,South East,198
+"2020-09-01",region,E12000008,South East,124
+"2020-08-31",region,E12000008,South East,117
+"2020-08-30",region,E12000008,South East,101
+"2020-12-28",region,E12000009,South West,192
+"2020-08-29",region,E12000008,South East,104
+"2020-12-27",region,E12000009,South West,1861
+"2020-08-28",region,E12000008,South East,116
+"2020-12-26",region,E12000009,South West,1780
+"2020-05-22",region,E12000003,Yorkshire and The Humber,267
+"2020-12-25",region,E12000009,South West,553
+"2020-05-21",region,E12000003,Yorkshire and The Humber,383
+"2020-12-24",region,E12000009,South West,1097
+"2020-05-20",region,E12000003,Yorkshire and The Humber,295
+"2020-12-23",region,E12000009,South West,1745
+"2020-05-19",region,E12000003,Yorkshire and The Humber,388
+"2020-12-22",region,E12000009,South West,1782
+"2020-05-18",region,E12000003,Yorkshire and The Humber,261
+"2020-12-21",region,E12000009,South West,1940
+"2020-05-17",region,E12000003,Yorkshire and The Humber,244
+"2020-12-20",region,E12000009,South West,1265
+"2020-05-16",region,E12000003,Yorkshire and The Humber,259
+"2020-12-19",region,E12000009,South West,776
+"2020-05-15",region,E12000003,Yorkshire and The Humber,337
+"2020-12-18",region,E12000009,South West,1243
+"2020-12-17",region,E12000009,South West,1115
+"2020-05-14",region,E12000003,Yorkshire and The Humber,355
+"2020-05-13",region,E12000003,Yorkshire and The Humber,405
+"2020-12-16",region,E12000009,South West,1327
+"2020-05-12",region,E12000003,Yorkshire and The Humber,375
+"2020-12-15",region,E12000009,South West,1223
+"2020-05-11",region,E12000003,Yorkshire and The Humber,425
+"2020-12-14",region,E12000009,South West,1262
+"2020-05-10",region,E12000003,Yorkshire and The Humber,296
+"2020-05-09",region,E12000003,Yorkshire and The Humber,245
+"2020-08-27",region,E12000008,South East,127
+"2020-03-11",region,E12000006,East of England,14
+"2020-08-26",region,E12000008,South East,115
+"2020-03-10",region,E12000006,East of England,16
+"2020-08-25",region,E12000008,South East,90
+"2020-08-24",region,E12000008,South East,95
+"2020-08-23",region,E12000008,South East,84
+"2020-08-22",region,E12000008,South East,78
+"2020-08-21",region,E12000008,South East,110
+"2020-03-09",region,E12000006,East of England,5
+"2020-08-20",region,E12000008,South East,130
+"2020-03-08",region,E12000006,East of England,2
+"2020-03-07",region,E12000006,East of England,3
+"2020-08-19",region,E12000008,South East,115
+"2020-08-18",region,E12000008,South East,77
+"2020-08-17",region,E12000008,South East,109
+"2020-03-06",region,E12000006,East of England,5
+"2020-08-16",region,E12000008,South East,36
+"2020-08-15",region,E12000008,South East,45
+"2020-08-14",region,E12000008,South East,95
+"2020-08-13",region,E12000008,South East,76
+"2020-03-05",region,E12000006,East of England,1
+"2020-03-04",region,E12000006,East of England,7
+"2020-08-12",region,E12000008,South East,83
+"2020-03-03",region,E12000006,East of England,7
+"2020-08-11",region,E12000008,South East,77
+"2020-03-02",region,E12000006,East of England,0
+"2020-03-01",region,E12000006,East of England,1
+"2020-02-29",region,E12000006,East of England,0
+"2020-02-28",region,E12000006,East of England,2
+"2020-02-27",region,E12000006,East of England,1
+"2020-02-26",region,E12000006,East of England,1
+"2020-12-13",region,E12000009,South West,815
+"2020-12-12",region,E12000009,South West,664
+"2020-12-11",region,E12000009,South West,812
+"2020-05-08",region,E12000003,Yorkshire and The Humber,352
+"2020-12-10",region,E12000009,South West,869
+"2020-05-07",region,E12000003,Yorkshire and The Humber,459
+"2020-08-10",region,E12000008,South East,112
+"2020-12-09",region,E12000009,South West,816
+"2020-08-09",region,E12000008,South East,29
+"2020-05-06",region,E12000003,Yorkshire and The Humber,413
+"2020-08-08",region,E12000008,South East,31
+"2020-12-08",region,E12000009,South West,842
+"2020-08-07",region,E12000008,South East,56
+"2020-12-07",region,E12000009,South West,780
+"2020-05-05",region,E12000003,Yorkshire and The Humber,440
+"2020-08-06",region,E12000008,South East,61
+"2020-08-05",region,E12000008,South East,66
+"2020-12-06",region,E12000009,South West,504
+"2020-05-04",region,E12000003,Yorkshire and The Humber,351
+"2020-08-04",region,E12000008,South East,66
+"2020-08-03",region,E12000008,South East,77
+"2020-12-05",region,E12000009,South West,514
+"2020-05-03",region,E12000003,Yorkshire and The Humber,384
+"2020-08-02",region,E12000008,South East,21
+"2020-08-01",region,E12000008,South East,29
+"2020-12-04",region,E12000009,South West,591
+"2020-05-02",region,E12000003,Yorkshire and The Humber,385
+"2020-07-31",region,E12000008,South East,41
+"2020-07-30",region,E12000008,South East,63
+"2020-12-03",region,E12000009,South West,670
+"2020-07-29",region,E12000008,South East,80
+"2020-05-01",region,E12000003,Yorkshire and The Humber,621
+"2020-07-28",region,E12000008,South East,63
+"2020-12-02",region,E12000009,South West,650
+"2020-07-27",region,E12000008,South East,85
+"2020-04-30",region,E12000003,Yorkshire and The Humber,578
+"2020-07-26",region,E12000008,South East,37
+"2020-12-01",region,E12000009,South West,732
+"2020-07-25",region,E12000008,South East,47
+"2020-07-24",region,E12000008,South East,63
+"2020-04-29",region,E12000003,Yorkshire and The Humber,713
+"2020-07-23",region,E12000008,South East,76
+"2020-11-30",region,E12000009,South West,799
+"2020-07-22",region,E12000008,South East,77
+"2020-04-28",region,E12000003,Yorkshire and The Humber,486
+"2020-04-27",region,E12000003,Yorkshire and The Humber,510
+"2020-04-26",region,E12000003,Yorkshire and The Humber,423
+"2020-04-25",region,E12000003,Yorkshire and The Humber,414
+"2020-04-24",region,E12000003,Yorkshire and The Humber,592
+"2020-04-23",region,E12000003,Yorkshire and The Humber,450
+"2020-04-22",region,E12000003,Yorkshire and The Humber,564
+"2020-04-21",region,E12000003,Yorkshire and The Humber,350
+"2020-04-20",region,E12000003,Yorkshire and The Humber,401
+"2020-04-19",region,E12000003,Yorkshire and The Humber,417
+"2020-04-18",region,E12000003,Yorkshire and The Humber,364
+"2020-04-17",region,E12000003,Yorkshire and The Humber,351
+"2020-04-16",region,E12000003,Yorkshire and The Humber,374
+"2020-04-15",region,E12000003,Yorkshire and The Humber,473
+"2020-04-14",region,E12000003,Yorkshire and The Humber,314
+"2020-07-21",region,E12000008,South East,77
+"2020-04-13",region,E12000003,Yorkshire and The Humber,326
+"2020-11-29",region,E12000009,South West,501
+"2020-11-28",region,E12000009,South West,504
+"2020-11-27",region,E12000009,South West,699
+"2020-11-26",region,E12000009,South West,764
+"2020-07-20",region,E12000008,South East,87
+"2020-11-25",region,E12000009,South West,848
+"2020-11-24",region,E12000009,South West,824
+"2020-11-23",region,E12000009,South West,999
+"2020-11-22",region,E12000009,South West,572
+"2020-04-12",region,E12000003,Yorkshire and The Humber,269
+"2020-04-11",region,E12000003,Yorkshire and The Humber,261
+"2020-11-21",region,E12000009,South West,693
+"2020-04-10",region,E12000003,Yorkshire and The Humber,299
+"2020-11-20",region,E12000009,South West,898
+"2020-11-19",region,E12000009,South West,990
+"2020-04-09",region,E12000003,Yorkshire and The Humber,304
+"2020-04-08",region,E12000003,Yorkshire and The Humber,318
+"2020-11-18",region,E12000009,South West,1176
+"2020-04-07",region,E12000003,Yorkshire and The Humber,336
+"2020-11-17",region,E12000009,South West,1296
+"2020-11-16",region,E12000009,South West,1733
+"2020-11-15",region,E12000009,South West,1059
+"2020-11-14",region,E12000009,South West,1256
+"2020-04-06",region,E12000003,Yorkshire and The Humber,321
+"2020-04-05",region,E12000003,Yorkshire and The Humber,216
+"2020-04-04",region,E12000003,Yorkshire and The Humber,202
+"2020-04-03",region,E12000003,Yorkshire and The Humber,293
+"2020-04-02",region,E12000003,Yorkshire and The Humber,243
+"2020-04-01",region,E12000003,Yorkshire and The Humber,297
+"2020-11-13",region,E12000009,South West,1713
+"2020-11-12",region,E12000009,South West,1559
+"2020-11-11",region,E12000009,South West,1592
+"2020-07-19",region,E12000008,South East,46
+"2020-07-18",region,E12000008,South East,54
+"2020-03-31",region,E12000003,Yorkshire and The Humber,319
+"2020-03-30",region,E12000003,Yorkshire and The Humber,285
+"2020-03-29",region,E12000003,Yorkshire and The Humber,228
+"2020-03-28",region,E12000003,Yorkshire and The Humber,208
+"2020-03-27",region,E12000003,Yorkshire and The Humber,153
+"2020-03-26",region,E12000003,Yorkshire and The Humber,177
+"2020-03-25",region,E12000003,Yorkshire and The Humber,151
+"2020-03-24",region,E12000003,Yorkshire and The Humber,157
+"2020-03-23",region,E12000003,Yorkshire and The Humber,144
+"2020-03-22",region,E12000003,Yorkshire and The Humber,95
+"2020-03-21",region,E12000003,Yorkshire and The Humber,77
+"2020-07-17",region,E12000008,South East,50
+"2020-03-20",region,E12000003,Yorkshire and The Humber,59
+"2020-11-10",region,E12000009,South West,1774
+"2020-03-19",region,E12000003,Yorkshire and The Humber,55
+"2020-11-09",region,E12000009,South West,1903
+"2020-03-18",region,E12000003,Yorkshire and The Humber,47
+"2020-03-17",region,E12000003,Yorkshire and The Humber,31
+"2020-11-08",region,E12000009,South West,1292
+"2020-11-07",region,E12000009,South West,1165
+"2020-03-16",region,E12000003,Yorkshire and The Humber,28
+"2020-03-15",region,E12000003,Yorkshire and The Humber,10
+"2020-03-14",region,E12000003,Yorkshire and The Humber,12
+"2020-03-13",region,E12000003,Yorkshire and The Humber,12
+"2020-03-12",region,E12000003,Yorkshire and The Humber,14
+"2020-03-11",region,E12000003,Yorkshire and The Humber,10
+"2020-03-10",region,E12000003,Yorkshire and The Humber,18
+"2020-03-09",region,E12000003,Yorkshire and The Humber,7
+"2020-07-16",region,E12000008,South East,63
+"2020-07-15",region,E12000008,South East,63
+"2020-07-14",region,E12000008,South East,60
+"2020-07-13",region,E12000008,South East,69
+"2020-03-08",region,E12000003,Yorkshire and The Humber,3
+"2020-03-07",region,E12000003,Yorkshire and The Humber,5
+"2020-03-06",region,E12000003,Yorkshire and The Humber,1
+"2020-11-06",region,E12000009,South West,1481
+"2020-07-12",region,E12000008,South East,31
+"2020-03-05",region,E12000003,Yorkshire and The Humber,2
+"2020-03-04",region,E12000003,Yorkshire and The Humber,2
+"2020-03-03",region,E12000003,Yorkshire and The Humber,4
+"2020-03-02",region,E12000003,Yorkshire and The Humber,3
+"2020-03-01",region,E12000003,Yorkshire and The Humber,2
+"2020-02-29",region,E12000003,Yorkshire and The Humber,0
+"2020-02-28",region,E12000003,Yorkshire and The Humber,2
+"2020-02-27",region,E12000003,Yorkshire and The Humber,1
+"2020-02-26",region,E12000003,Yorkshire and The Humber,0
+"2020-02-25",region,E12000003,Yorkshire and The Humber,0
+"2020-02-24",region,E12000003,Yorkshire and The Humber,0
+"2020-02-23",region,E12000003,Yorkshire and The Humber,0
+"2020-02-22",region,E12000003,Yorkshire and The Humber,0
+"2020-02-21",region,E12000003,Yorkshire and The Humber,0
+"2020-02-20",region,E12000003,Yorkshire and The Humber,0
+"2020-02-19",region,E12000003,Yorkshire and The Humber,0
+"2020-02-18",region,E12000003,Yorkshire and The Humber,0
+"2020-02-17",region,E12000003,Yorkshire and The Humber,0
+"2020-02-16",region,E12000003,Yorkshire and The Humber,0
+"2020-02-15",region,E12000003,Yorkshire and The Humber,0
+"2020-11-05",region,E12000009,South West,1556
+"2020-07-11",region,E12000008,South East,34
+"2020-11-04",region,E12000009,South West,1604
+"2020-07-10",region,E12000008,South East,77
+"2020-12-28",region,E12000005,West Midlands,117
+"2020-12-27",region,E12000005,West Midlands,2669
+"2020-02-14",region,E12000003,Yorkshire and The Humber,0
+"2020-02-13",region,E12000003,Yorkshire and The Humber,0
+"2020-11-03",region,E12000009,South West,1535
+"2020-11-02",region,E12000009,South West,1788
+"2020-07-09",region,E12000008,South East,85
+"2020-07-08",region,E12000008,South East,82
+"2020-02-12",region,E12000003,Yorkshire and The Humber,0
+"2020-02-11",region,E12000003,Yorkshire and The Humber,0
+"2020-11-01",region,E12000009,South West,713
+"2020-02-10",region,E12000003,Yorkshire and The Humber,0
+"2020-02-09",region,E12000003,Yorkshire and The Humber,0
+"2020-02-08",region,E12000003,Yorkshire and The Humber,0
+"2020-02-07",region,E12000003,Yorkshire and The Humber,0
+"2020-02-06",region,E12000003,Yorkshire and The Humber,0
+"2020-02-05",region,E12000003,Yorkshire and The Humber,0
+"2020-02-04",region,E12000003,Yorkshire and The Humber,0
+"2020-10-31",region,E12000009,South West,851
+"2020-02-03",region,E12000003,Yorkshire and The Humber,0
+"2020-12-26",region,E12000005,West Midlands,2499
+"2020-02-02",region,E12000003,Yorkshire and The Humber,0
+"2020-12-25",region,E12000005,West Midlands,978
+"2020-02-01",region,E12000003,Yorkshire and The Humber,0
+"2020-01-31",region,E12000003,Yorkshire and The Humber,0
+"2020-07-07",region,E12000008,South East,55
+"2020-12-24",region,E12000005,West Midlands,1951
+"2020-07-06",region,E12000008,South East,44
+"2020-07-05",region,E12000008,South East,58
+"2020-12-23",region,E12000005,West Midlands,2657
+"2020-12-22",region,E12000005,West Midlands,2778
+"2020-12-21",region,E12000005,West Midlands,2950
+"2020-10-30",region,E12000009,South West,1242
+"2020-12-20",region,E12000005,West Midlands,2211
+"2020-01-30",region,E12000003,Yorkshire and The Humber,1
+"2020-10-29",region,E12000009,South West,1410
+"2020-07-04",region,E12000008,South East,29
+"2020-07-03",region,E12000008,South East,64
+"2020-07-02",region,E12000008,South East,60
+"2020-07-01",region,E12000008,South East,68
+"2020-06-30",region,E12000008,South East,57
+"2020-06-29",region,E12000008,South East,80
+"2020-06-28",region,E12000008,South East,45
+"2020-06-27",region,E12000008,South East,54
+"2020-06-26",region,E12000008,South East,65
+"2020-06-25",region,E12000008,South East,63
+"2020-06-24",region,E12000008,South East,44
+"2020-06-23",region,E12000008,South East,59
+"2020-06-22",region,E12000008,South East,77
+"2020-06-21",region,E12000008,South East,66
+"2020-06-20",region,E12000008,South East,65
+"2020-06-19",region,E12000008,South East,79
+"2020-06-18",region,E12000008,South East,75
+"2020-06-17",region,E12000008,South East,82
+"2020-06-16",region,E12000008,South East,98
+"2020-06-15",region,E12000008,South East,97
+"2020-10-28",region,E12000009,South West,1372
+"2020-12-19",region,E12000005,West Midlands,1605
+"2020-10-27",region,E12000009,South West,1420
+"2020-12-18",region,E12000005,West Midlands,2075
+"2020-10-26",region,E12000009,South West,1336
+"2020-12-17",region,E12000005,West Midlands,2117
+"2020-10-25",region,E12000009,South West,903
+"2020-10-24",region,E12000009,South West,787
+"2020-10-23",region,E12000009,South West,1136
+"2020-10-22",region,E12000009,South West,1278
+"2020-06-14",region,E12000008,South East,71
+"2020-12-16",region,E12000005,West Midlands,2062
+"2020-12-15",region,E12000005,West Midlands,2238
+"2020-12-14",region,E12000005,West Midlands,2379
+"2020-12-13",region,E12000005,West Midlands,1322
+"2020-12-12",region,E12000005,West Midlands,1339
+"2020-12-11",region,E12000005,West Midlands,1744
+"2020-12-10",region,E12000005,West Midlands,1679
+"2020-12-09",region,E12000005,West Midlands,1655
+"2020-06-13",region,E12000008,South East,66
+"2020-06-12",region,E12000008,South East,85
+"2020-12-08",region,E12000005,West Midlands,1719
+"2020-12-07",region,E12000005,West Midlands,1734
+"2020-12-06",region,E12000005,West Midlands,1129
+"2020-12-05",region,E12000005,West Midlands,1106
+"2020-12-04",region,E12000005,West Midlands,1390
+"2020-12-03",region,E12000005,West Midlands,1348
+"2020-06-11",region,E12000008,South East,93
+"2020-12-02",region,E12000005,West Midlands,1469
+"2020-12-01",region,E12000005,West Midlands,1529
+"2020-10-21",region,E12000009,South West,1359
+"2020-11-30",region,E12000005,West Midlands,1699
+"2020-10-20",region,E12000009,South West,1137
+"2020-11-29",region,E12000005,West Midlands,1120
+"2020-10-19",region,E12000009,South West,1125
+"2020-10-18",region,E12000009,South West,586
+"2020-10-17",region,E12000009,South West,643
+"2020-11-28",region,E12000005,West Midlands,1135
+"2020-10-16",region,E12000009,South West,780
+"2020-11-27",region,E12000005,West Midlands,1562
+"2020-10-15",region,E12000009,South West,672
+"2020-11-26",region,E12000005,West Midlands,1695
+"2020-11-25",region,E12000005,West Midlands,1912
+"2020-11-24",region,E12000005,West Midlands,2023
+"2020-11-23",region,E12000005,West Midlands,2242
+"2020-11-22",region,E12000005,West Midlands,1472
+"2020-10-14",region,E12000009,South West,853
+"2020-06-10",region,E12000008,South East,125
+"2020-10-13",region,E12000009,South West,949
+"2020-10-12",region,E12000009,South West,745
+"2020-10-11",region,E12000009,South West,478
+"2020-10-10",region,E12000009,South West,562
+"2020-10-09",region,E12000009,South West,759
+"2020-10-08",region,E12000009,South West,839
+"2020-11-21",region,E12000005,West Midlands,1589
+"2020-11-20",region,E12000005,West Midlands,2303
+"2020-11-19",region,E12000005,West Midlands,2372
+"2020-10-07",region,E12000009,South West,794
+"2020-10-06",region,E12000009,South West,646
+"2020-10-05",region,E12000009,South West,647
+"2020-10-04",region,E12000009,South West,429
+"2020-06-09",region,E12000008,South East,114
+"2020-06-08",region,E12000008,South East,121
+"2020-06-07",region,E12000008,South East,61
+"2020-06-06",region,E12000008,South East,85
+"2020-06-05",region,E12000008,South East,140
+"2020-11-18",region,E12000005,West Midlands,2609
+"2020-10-03",region,E12000009,South West,396
+"2020-10-02",region,E12000009,South West,416
+"2020-06-04",region,E12000008,South East,158
+"2020-06-03",region,E12000008,South East,136
+"2020-06-02",region,E12000008,South East,218
+"2020-06-01",region,E12000008,South East,184
+"2020-05-31",region,E12000008,South East,134
+"2020-05-30",region,E12000008,South East,132
+"2020-05-29",region,E12000008,South East,163
+"2020-05-28",region,E12000008,South East,202
+"2020-05-27",region,E12000008,South East,202
+"2020-05-26",region,E12000008,South East,182
+"2020-11-17",region,E12000005,West Midlands,3030
+"2020-11-16",region,E12000005,West Midlands,3386
+"2020-11-15",region,E12000005,West Midlands,2027
+"2020-11-14",region,E12000005,West Midlands,2360
+"2020-11-13",region,E12000005,West Midlands,3044
+"2020-11-12",region,E12000005,West Midlands,3098
+"2020-11-11",region,E12000005,West Midlands,3535
+"2020-05-25",region,E12000008,South East,187
+"2020-05-24",region,E12000008,South East,150
+"2020-05-23",region,E12000008,South East,121
+"2020-05-22",region,E12000008,South East,247
+"2020-10-01",region,E12000009,South West,391
+"2020-09-30",region,E12000009,South West,394
+"2020-09-29",region,E12000009,South West,268
+"2020-09-28",region,E12000009,South West,318
+"2020-09-27",region,E12000009,South West,118
+"2020-09-26",region,E12000009,South West,130
+"2020-09-25",region,E12000009,South West,217
+"2020-09-24",region,E12000009,South West,207
+"2020-09-23",region,E12000009,South West,171
+"2020-05-21",region,E12000008,South East,303
+"2020-05-20",region,E12000008,South East,340
+"2020-05-19",region,E12000008,South East,386
+"2020-11-10",region,E12000005,West Midlands,3641
+"2020-05-18",region,E12000008,South East,359
+"2020-11-09",region,E12000005,West Midlands,3929
+"2020-11-08",region,E12000005,West Midlands,2448
+"2020-11-07",region,E12000005,West Midlands,2268
+"2020-11-06",region,E12000005,West Midlands,2795
+"2020-11-05",region,E12000005,West Midlands,2833
+"2020-05-17",region,E12000008,South East,222
+"2020-05-16",region,E12000008,South East,191
+"2020-05-15",region,E12000008,South East,263
+"2020-09-22",region,E12000009,South West,150
+"2020-09-21",region,E12000009,South West,150
+"2020-09-20",region,E12000009,South West,143
+"2020-09-19",region,E12000009,South West,126
+"2020-05-14",region,E12000008,South East,295
+"2020-09-18",region,E12000009,South West,124
+"2020-09-17",region,E12000009,South West,107
+"2020-09-16",region,E12000009,South West,74
+"2020-09-15",region,E12000009,South West,86
+"2020-11-04",region,E12000005,West Midlands,2741
+"2020-11-03",region,E12000005,West Midlands,3102
+"2020-11-02",region,E12000005,West Midlands,3644
+"2020-11-01",region,E12000005,West Midlands,1614
+"2020-10-31",region,E12000005,West Midlands,1939
+"2020-10-30",region,E12000005,West Midlands,2590
+"2020-10-29",region,E12000005,West Midlands,2487
+"2020-05-13",region,E12000008,South East,484
+"2020-09-14",region,E12000009,South West,77
+"2020-10-28",region,E12000005,West Midlands,2541
+"2020-10-27",region,E12000005,West Midlands,2426
+"2020-05-12",region,E12000008,South East,411
+"2020-05-11",region,E12000008,South East,477
+"2020-05-10",region,E12000008,South East,308
+"2020-10-26",region,E12000005,West Midlands,2634
+"2020-10-25",region,E12000005,West Midlands,1588
+"2020-10-24",region,E12000005,West Midlands,1545
+"2020-05-09",region,E12000008,South East,247
+"2020-05-08",region,E12000008,South East,352
+"2020-09-13",region,E12000009,South West,55
+"2020-10-23",region,E12000005,West Midlands,2034
+"2020-05-07",region,E12000008,South East,420
+"2020-05-06",region,E12000008,South East,444
+"2020-05-05",region,E12000008,South East,474
+"2020-05-04",region,E12000008,South East,488
+"2020-05-03",region,E12000008,South East,363
+"2020-05-02",region,E12000008,South East,417
+"2020-05-01",region,E12000008,South East,523
+"2020-04-30",region,E12000008,South East,650
+"2020-04-29",region,E12000008,South East,690
+"2020-04-28",region,E12000008,South East,659
+"2020-09-12",region,E12000009,South West,63
+"2020-04-27",region,E12000008,South East,555
+"2020-04-26",region,E12000008,South East,501
+"2020-04-25",region,E12000008,South East,517
+"2020-04-24",region,E12000008,South East,657
+"2020-04-23",region,E12000008,South East,680
+"2020-04-22",region,E12000008,South East,693
+"2020-10-22",region,E12000005,West Midlands,2111
+"2020-04-21",region,E12000008,South East,632
+"2020-10-21",region,E12000005,West Midlands,2227
+"2020-04-20",region,E12000008,South East,490
+"2020-04-19",region,E12000008,South East,414
+"2020-04-18",region,E12000008,South East,523
+"2020-04-17",region,E12000008,South East,706
+"2020-04-16",region,E12000008,South East,656
+"2020-09-11",region,E12000009,South West,94
+"2020-10-20",region,E12000005,West Midlands,2272
+"2020-10-19",region,E12000005,West Midlands,2203
+"2020-10-18",region,E12000005,West Midlands,1186
+"2020-10-17",region,E12000005,West Midlands,1234
+"2020-10-16",region,E12000005,West Midlands,1618
+"2020-10-15",region,E12000005,West Midlands,1586
+"2020-10-14",region,E12000005,West Midlands,1573
+"2020-10-13",region,E12000005,West Midlands,1489
+"2020-10-12",region,E12000005,West Midlands,1498
+"2020-10-11",region,E12000005,West Midlands,916
+"2020-10-10",region,E12000005,West Midlands,920
+"2020-04-15",region,E12000008,South East,712
+"2020-04-14",region,E12000008,South East,554
+"2020-04-13",region,E12000008,South East,576
+"2020-04-12",region,E12000008,South East,484
+"2020-09-10",region,E12000009,South West,84
+"2020-09-09",region,E12000009,South West,75
+"2020-09-08",region,E12000009,South West,75
+"2020-09-07",region,E12000009,South West,97
+"2020-09-06",region,E12000009,South West,73
+"2020-09-05",region,E12000009,South West,83
+"2020-09-04",region,E12000009,South West,132
+"2020-10-09",region,E12000005,West Midlands,1190
+"2020-10-08",region,E12000005,West Midlands,1265
+"2020-04-11",region,E12000008,South East,381
+"2020-04-10",region,E12000008,South East,576
+"2020-04-09",region,E12000008,South East,523
+"2020-04-08",region,E12000008,South East,564
+"2020-04-07",region,E12000008,South East,718
+"2020-04-06",region,E12000008,South East,592
+"2020-04-05",region,E12000008,South East,424
+"2020-09-03",region,E12000009,South West,146
+"2020-04-04",region,E12000008,South East,455
+"2020-04-03",region,E12000008,South East,518
+"2020-09-02",region,E12000009,South West,131
+"2020-10-07",region,E12000005,West Midlands,1216
+"2020-09-01",region,E12000009,South West,99
+"2020-08-31",region,E12000009,South West,57
+"2020-08-30",region,E12000009,South West,34
+"2020-08-29",region,E12000009,South West,50
+"2020-08-28",region,E12000009,South West,72
+"2020-08-27",region,E12000009,South West,56
+"2020-08-26",region,E12000009,South West,62
+"2020-04-02",region,E12000008,South East,484
+"2020-04-01",region,E12000008,South East,547
+"2020-03-31",region,E12000008,South East,470
+"2020-08-25",region,E12000009,South West,50
+"2020-08-24",region,E12000009,South West,49
+"2020-08-23",region,E12000009,South West,41
+"2020-08-22",region,E12000009,South West,39
+"2020-08-21",region,E12000009,South West,64
+"2020-08-20",region,E12000009,South West,85
+"2020-10-06",region,E12000005,West Midlands,1216
+"2020-03-30",region,E12000008,South East,477
+"2020-03-29",region,E12000008,South East,295
+"2020-10-05",region,E12000005,West Midlands,1156
+"2020-08-19",region,E12000009,South West,69
+"2020-03-28",region,E12000008,South East,339
+"2020-03-27",region,E12000008,South East,330
+"2020-03-26",region,E12000008,South East,319
+"2020-08-18",region,E12000009,South West,58
+"2020-08-17",region,E12000009,South West,48
+"2020-10-04",region,E12000005,West Midlands,684
+"2020-08-16",region,E12000009,South West,37
+"2020-08-15",region,E12000009,South West,24
+"2020-03-25",region,E12000008,South East,306
+"2020-03-24",region,E12000008,South East,236
+"2020-08-14",region,E12000009,South West,55
+"2020-08-13",region,E12000009,South West,53
+"2020-03-23",region,E12000008,South East,282
+"2020-03-22",region,E12000008,South East,170
+"2020-03-21",region,E12000008,South East,128
+"2020-10-03",region,E12000005,West Midlands,741
+"2020-10-02",region,E12000005,West Midlands,940
+"2020-03-20",region,E12000008,South East,127
+"2020-08-12",region,E12000009,South West,42
+"2020-10-01",region,E12000005,West Midlands,886
+"2020-03-19",region,E12000008,South East,127
+"2020-08-11",region,E12000009,South West,41
+"2020-03-18",region,E12000008,South East,122
+"2020-03-17",region,E12000008,South East,89
+"2020-03-16",region,E12000008,South East,78
+"2020-03-15",region,E12000008,South East,53
+"2020-03-14",region,E12000008,South East,41
+"2020-08-10",region,E12000009,South West,42
+"2020-09-30",region,E12000005,West Midlands,936
+"2020-03-13",region,E12000008,South East,53
+"2020-03-12",region,E12000008,South East,86
+"2020-03-11",region,E12000008,South East,50
+"2020-03-10",region,E12000008,South East,36
+"2020-03-09",region,E12000008,South East,24
+"2020-03-08",region,E12000008,South East,10
+"2020-03-07",region,E12000008,South East,4
+"2020-08-09",region,E12000009,South West,15
+"2020-03-06",region,E12000008,South East,16
+"2020-03-05",region,E12000008,South East,5
+"2020-03-04",region,E12000008,South East,7
+"2020-03-03",region,E12000008,South East,9
+"2020-09-29",region,E12000005,West Midlands,753
+"2020-03-02",region,E12000008,South East,1
+"2020-03-01",region,E12000008,South East,0
+"2020-09-28",region,E12000005,West Midlands,693
+"2020-09-27",region,E12000005,West Midlands,495
+"2020-09-26",region,E12000005,West Midlands,565
+"2020-09-25",region,E12000005,West Midlands,601
+"2020-09-24",region,E12000005,West Midlands,690
+"2020-09-23",region,E12000005,West Midlands,684
+"2020-09-22",region,E12000005,West Midlands,610
+"2020-09-21",region,E12000005,West Midlands,646
+"2020-09-20",region,E12000005,West Midlands,598
+"2020-08-08",region,E12000009,South West,25
+"2020-09-19",region,E12000005,West Midlands,580
+"2020-09-18",region,E12000005,West Midlands,581
+"2020-09-17",region,E12000005,West Midlands,507
+"2020-09-16",region,E12000005,West Midlands,457
+"2020-09-15",region,E12000005,West Midlands,362
+"2020-09-14",region,E12000005,West Midlands,323
+"2020-02-29",region,E12000008,South East,2
+"2020-02-28",region,E12000008,South East,2
+"2020-02-27",region,E12000008,South East,2
+"2020-02-26",region,E12000008,South East,0
+"2020-09-13",region,E12000005,West Midlands,218
+"2020-09-12",region,E12000005,West Midlands,290
+"2020-02-25",region,E12000008,South East,1
+"2020-09-11",region,E12000005,West Midlands,359
+"2020-02-24",region,E12000008,South East,1
+"2020-02-23",region,E12000008,South East,1
+"2020-02-22",region,E12000008,South East,0
+"2020-09-10",region,E12000005,West Midlands,385
+"2020-08-07",region,E12000009,South West,41
+"2020-08-06",region,E12000009,South West,45
+"2020-08-05",region,E12000009,South West,40
+"2020-08-04",region,E12000009,South West,54
+"2020-09-09",region,E12000005,West Midlands,386
+"2020-08-03",region,E12000009,South West,43
+"2020-08-02",region,E12000009,South West,10
+"2020-08-01",region,E12000009,South West,9
+"2020-07-31",region,E12000009,South West,29
+"2020-07-30",region,E12000009,South West,63
+"2020-02-21",region,E12000008,South East,0
+"2020-07-29",region,E12000009,South West,53
+"2020-02-20",region,E12000008,South East,0
+"2020-02-19",region,E12000008,South East,0
+"2020-02-18",region,E12000008,South East,0
+"2020-02-17",region,E12000008,South East,0
+"2020-02-16",region,E12000008,South East,0
+"2020-02-15",region,E12000008,South East,0
+"2020-02-14",region,E12000008,South East,0
+"2020-09-08",region,E12000005,West Midlands,430
+"2020-02-13",region,E12000008,South East,0
+"2020-02-12",region,E12000008,South East,0
+"2020-09-07",region,E12000005,West Midlands,487
+"2020-09-06",region,E12000005,West Midlands,320
+"2020-02-11",region,E12000008,South East,0
+"2020-09-05",region,E12000005,West Midlands,307
+"2020-07-28",region,E12000009,South West,34
+"2020-09-04",region,E12000005,West Midlands,435
+"2020-07-27",region,E12000009,South West,39
+"2020-07-26",region,E12000009,South West,20
+"2020-02-10",region,E12000008,South East,0
+"2020-02-09",region,E12000008,South East,1
+"2020-07-25",region,E12000009,South West,16
+"2020-07-24",region,E12000009,South West,34
+"2020-07-23",region,E12000009,South West,39
+"2020-02-08",region,E12000008,South East,4
+"2020-07-22",region,E12000009,South West,30
+"2020-02-07",region,E12000008,South East,0
+"2020-07-21",region,E12000009,South West,35
+"2020-07-20",region,E12000009,South West,22
+"2020-07-19",region,E12000009,South West,9
+"2020-09-03",region,E12000005,West Midlands,364
+"2020-07-18",region,E12000009,South West,12
+"2020-09-02",region,E12000005,West Midlands,346
+"2020-07-17",region,E12000009,South West,20
+"2020-02-06",region,E12000008,South East,0
+"2020-12-28",region,E12000004,East Midlands,84
+"2020-12-27",region,E12000004,East Midlands,2050
+"2020-12-26",region,E12000004,East Midlands,1799
+"2020-12-25",region,E12000004,East Midlands,660
+"2020-12-24",region,E12000004,East Midlands,1290
+"2020-12-23",region,E12000004,East Midlands,1951
+"2020-09-01",region,E12000005,West Midlands,256
+"2020-08-31",region,E12000005,West Midlands,127
+"2020-08-30",region,E12000005,West Midlands,94
+"2020-08-29",region,E12000005,West Midlands,111
+"2020-08-28",region,E12000005,West Midlands,154
+"2020-08-27",region,E12000005,West Midlands,143
+"2020-08-26",region,E12000005,West Midlands,125
+"2020-08-25",region,E12000005,West Midlands,142
+"2020-08-24",region,E12000005,West Midlands,137
+"2020-02-05",region,E12000008,South East,1
+"2020-08-23",region,E12000005,West Midlands,82
+"2020-08-22",region,E12000005,West Midlands,76
+"2020-08-21",region,E12000005,West Midlands,104
+"2020-08-20",region,E12000005,West Midlands,163
+"2020-08-19",region,E12000005,West Midlands,118
+"2020-08-18",region,E12000005,West Midlands,110
+"2020-08-17",region,E12000005,West Midlands,138
+"2020-08-16",region,E12000005,West Midlands,73
+"2020-12-22",region,E12000004,East Midlands,2061
+"2020-08-15",region,E12000005,West Midlands,96
+"2020-08-14",region,E12000005,West Midlands,171
+"2020-08-13",region,E12000005,West Midlands,117
+"2020-08-12",region,E12000005,West Midlands,133
+"2020-08-11",region,E12000005,West Midlands,164
+"2020-08-10",region,E12000005,West Midlands,158
+"2020-08-09",region,E12000005,West Midlands,77
+"2020-08-08",region,E12000005,West Midlands,74
+"2020-12-21",region,E12000004,East Midlands,2357
+"2020-12-20",region,E12000004,East Midlands,1690
+"2020-12-19",region,E12000004,East Midlands,1333
+"2020-12-18",region,E12000004,East Midlands,1704
+"2020-12-17",region,E12000004,East Midlands,1670
+"2020-12-16",region,E12000004,East Midlands,1683
+"2020-12-15",region,E12000004,East Midlands,1720
+"2020-12-14",region,E12000004,East Midlands,2039
+"2020-07-16",region,E12000009,South West,27
+"2020-12-13",region,E12000004,East Midlands,1043
+"2020-12-12",region,E12000004,East Midlands,1030
+"2020-12-11",region,E12000004,East Midlands,1432
+"2020-12-10",region,E12000004,East Midlands,1429
+"2020-12-09",region,E12000004,East Midlands,1411
+"2020-12-08",region,E12000004,East Midlands,1405
+"2020-12-07",region,E12000004,East Midlands,1566
+"2020-12-06",region,E12000004,East Midlands,955
+"2020-08-07",region,E12000005,West Midlands,106
+"2020-12-05",region,E12000004,East Midlands,855
+"2020-12-04",region,E12000004,East Midlands,1096
+"2020-07-15",region,E12000009,South West,17
+"2020-08-06",region,E12000005,West Midlands,113
+"2020-08-05",region,E12000005,West Midlands,95
+"2020-07-14",region,E12000009,South West,19
+"2020-07-13",region,E12000009,South West,17
+"2020-07-12",region,E12000009,South West,6
+"2020-07-11",region,E12000009,South West,6
+"2020-07-10",region,E12000009,South West,13
+"2020-08-04",region,E12000005,West Midlands,98
+"2020-12-03",region,E12000004,East Midlands,1240
+"2020-08-03",region,E12000005,West Midlands,89
+"2020-07-09",region,E12000009,South West,17
+"2020-07-08",region,E12000009,South West,15
+"2020-07-07",region,E12000009,South West,16
+"2020-07-06",region,E12000009,South West,23
+"2020-07-05",region,E12000009,South West,17
+"2020-07-04",region,E12000009,South West,9
+"2020-12-02",region,E12000004,East Midlands,1257
+"2020-07-03",region,E12000009,South West,8
+"2020-07-02",region,E12000009,South West,11
+"2020-12-01",region,E12000004,East Midlands,1269
+"2020-11-30",region,E12000004,East Midlands,1443
+"2020-11-29",region,E12000004,East Midlands,795
+"2020-11-28",region,E12000004,East Midlands,873
+"2020-11-27",region,E12000004,East Midlands,1122
+"2020-11-26",region,E12000004,East Midlands,1167
+"2020-11-25",region,E12000004,East Midlands,1343
+"2020-11-24",region,E12000004,East Midlands,1459
+"2020-11-23",region,E12000004,East Midlands,1629
+"2020-11-22",region,E12000004,East Midlands,1010
+"2020-11-21",region,E12000004,East Midlands,1095
+"2020-11-20",region,E12000004,East Midlands,1471
+"2020-11-19",region,E12000004,East Midlands,1496
+"2020-11-18",region,E12000004,East Midlands,1832
+"2020-11-17",region,E12000004,East Midlands,2109
+"2020-11-16",region,E12000004,East Midlands,2579
+"2020-11-15",region,E12000004,East Midlands,1410
+"2020-11-14",region,E12000004,East Midlands,1709
+"2020-08-02",region,E12000005,West Midlands,42
+"2020-07-01",region,E12000009,South West,24
+"2020-08-01",region,E12000005,West Midlands,54
+"2020-07-31",region,E12000005,West Midlands,82
+"2020-06-30",region,E12000009,South West,18
+"2020-06-29",region,E12000009,South West,16
+"2020-07-30",region,E12000005,West Midlands,80
+"2020-06-28",region,E12000009,South West,11
+"2020-07-29",region,E12000005,West Midlands,90
+"2020-07-28",region,E12000005,West Midlands,89
+"2020-06-27",region,E12000009,South West,8
+"2020-06-26",region,E12000009,South West,12
+"2020-07-27",region,E12000005,West Midlands,77
+"2020-06-25",region,E12000009,South West,9
+"2020-07-26",region,E12000005,West Midlands,65
+"2020-07-25",region,E12000005,West Midlands,67
+"2020-06-24",region,E12000009,South West,17
+"2020-06-23",region,E12000009,South West,15
+"2020-06-22",region,E12000009,South West,19
+"2020-06-21",region,E12000009,South West,8
+"2020-06-20",region,E12000009,South West,8
+"2020-06-19",region,E12000009,South West,24
+"2020-06-18",region,E12000009,South West,13
+"2020-06-17",region,E12000009,South West,16
+"2020-06-16",region,E12000009,South West,15
+"2020-07-24",region,E12000005,West Midlands,79
+"2020-07-23",region,E12000005,West Midlands,89
+"2020-07-22",region,E12000005,West Midlands,77
+"2020-07-21",region,E12000005,West Midlands,80
+"2020-07-20",region,E12000005,West Midlands,81
+"2020-07-19",region,E12000005,West Midlands,40
+"2020-11-13",region,E12000004,East Midlands,2147
+"2020-11-12",region,E12000004,East Midlands,2168
+"2020-11-11",region,E12000004,East Midlands,2650
+"2020-11-10",region,E12000004,East Midlands,2659
+"2020-11-09",region,E12000004,East Midlands,2993
+"2020-11-08",region,E12000004,East Midlands,2016
+"2020-11-07",region,E12000004,East Midlands,1751
+"2020-06-15",region,E12000009,South West,20
+"2020-06-14",region,E12000009,South West,9
+"2020-06-13",region,E12000009,South West,13
+"2020-11-06",region,E12000004,East Midlands,2293
+"2020-07-18",region,E12000005,West Midlands,51
+"2020-07-17",region,E12000005,West Midlands,68
+"2020-07-16",region,E12000005,West Midlands,65
+"2020-11-05",region,E12000004,East Midlands,2197
+"2020-07-15",region,E12000005,West Midlands,108
+"2020-07-14",region,E12000005,West Midlands,72
+"2020-07-13",region,E12000005,West Midlands,78
+"2020-07-12",region,E12000005,West Midlands,38
+"2020-11-04",region,E12000004,East Midlands,2146
+"2020-11-03",region,E12000004,East Midlands,2360
+"2020-07-11",region,E12000005,West Midlands,40
+"2020-07-10",region,E12000005,West Midlands,43
+"2020-07-09",region,E12000005,West Midlands,123
+"2020-07-08",region,E12000005,West Midlands,65
+"2020-07-07",region,E12000005,West Midlands,60
+"2020-07-06",region,E12000005,West Midlands,53
+"2020-07-05",region,E12000005,West Midlands,36
+"2020-07-04",region,E12000005,West Midlands,23
+"2020-07-03",region,E12000005,West Midlands,41
+"2020-11-02",region,E12000004,East Midlands,3245
+"2020-11-01",region,E12000004,East Midlands,1230
+"2020-10-31",region,E12000004,East Midlands,1502
+"2020-10-30",region,E12000004,East Midlands,2062
+"2020-10-29",region,E12000004,East Midlands,2102
+"2020-06-12",region,E12000009,South West,19
+"2020-06-11",region,E12000009,South West,25
+"2020-06-10",region,E12000009,South West,31
+"2020-10-28",region,E12000004,East Midlands,2143
+"2020-10-27",region,E12000004,East Midlands,2049
+"2020-06-09",region,E12000009,South West,25
+"2020-07-02",region,E12000005,West Midlands,54
+"2020-07-01",region,E12000005,West Midlands,50
+"2020-06-08",region,E12000009,South West,23
+"2020-06-30",region,E12000005,West Midlands,51
+"2020-06-29",region,E12000005,West Midlands,56
+"2020-10-26",region,E12000004,East Midlands,2352
+"2020-10-25",region,E12000004,East Midlands,1476
+"2020-10-24",region,E12000004,East Midlands,1461
+"2020-10-23",region,E12000004,East Midlands,1841
+"2020-06-28",region,E12000005,West Midlands,26
+"2020-06-27",region,E12000005,West Midlands,44
+"2020-06-26",region,E12000005,West Midlands,69
+"2020-10-22",region,E12000004,East Midlands,2124
+"2020-06-25",region,E12000005,West Midlands,56
+"2020-06-24",region,E12000005,West Midlands,54
+"2020-06-23",region,E12000005,West Midlands,52
+"2020-06-22",region,E12000005,West Midlands,67
+"2020-10-21",region,E12000004,East Midlands,2119
+"2020-06-21",region,E12000005,West Midlands,37
+"2020-06-07",region,E12000009,South West,18
+"2020-10-20",region,E12000004,East Midlands,2125
+"2020-06-20",region,E12000005,West Midlands,48
+"2020-10-19",region,E12000004,East Midlands,2381
+"2020-10-18",region,E12000004,East Midlands,1083
+"2020-06-19",region,E12000005,West Midlands,52
+"2020-06-18",region,E12000005,West Midlands,83
+"2020-06-17",region,E12000005,West Midlands,80
+"2020-06-16",region,E12000005,West Midlands,106
+"2020-06-15",region,E12000005,West Midlands,103
+"2020-06-14",region,E12000005,West Midlands,75
+"2020-10-17",region,E12000004,East Midlands,1208
+"2020-06-13",region,E12000005,West Midlands,86
+"2020-06-12",region,E12000005,West Midlands,79
+"2020-06-11",region,E12000005,West Midlands,92
+"2020-06-10",region,E12000005,West Midlands,92
+"2020-06-09",region,E12000005,West Midlands,101
+"2020-06-08",region,E12000005,West Midlands,119
+"2020-06-07",region,E12000005,West Midlands,64
+"2020-06-06",region,E12000005,West Midlands,77
+"2020-06-06",region,E12000009,South West,24
+"2020-06-05",region,E12000005,West Midlands,102
+"2020-06-04",region,E12000005,West Midlands,136
+"2020-06-03",region,E12000005,West Midlands,124
+"2020-06-02",region,E12000005,West Midlands,125
+"2020-06-01",region,E12000005,West Midlands,125
+"2020-05-31",region,E12000005,West Midlands,78
+"2020-10-16",region,E12000004,East Midlands,1292
+"2020-10-15",region,E12000004,East Midlands,1430
+"2020-10-14",region,E12000004,East Midlands,1796
+"2020-10-13",region,E12000004,East Midlands,1576
+"2020-06-05",region,E12000009,South West,51
+"2020-10-12",region,E12000004,East Midlands,1767
+"2020-06-04",region,E12000009,South West,65
+"2020-06-03",region,E12000009,South West,68
+"2020-06-02",region,E12000009,South West,52
+"2020-06-01",region,E12000009,South West,52
+"2020-05-31",region,E12000009,South West,62
+"2020-05-30",region,E12000009,South West,51
+"2020-10-11",region,E12000004,East Midlands,1106
+"2020-05-29",region,E12000009,South West,75
+"2020-05-28",region,E12000009,South West,116
+"2020-10-10",region,E12000004,East Midlands,1126
+"2020-05-27",region,E12000009,South West,104
+"2020-05-26",region,E12000009,South West,81
+"2020-05-25",region,E12000009,South West,61
+"2020-05-30",region,E12000005,West Midlands,115
+"2020-05-29",region,E12000005,West Midlands,155
+"2020-05-28",region,E12000005,West Midlands,155
+"2020-05-27",region,E12000005,West Midlands,194
+"2020-05-24",region,E12000009,South West,59
+"2020-05-26",region,E12000005,West Midlands,152
+"2020-05-23",region,E12000009,South West,41
+"2020-05-25",region,E12000005,West Midlands,138
+"2020-05-24",region,E12000005,West Midlands,135
+"2020-05-23",region,E12000005,West Midlands,148
+"2020-05-22",region,E12000005,West Midlands,196
+"2020-05-22",region,E12000009,South West,82
+"2020-05-21",region,E12000005,West Midlands,224
+"2020-05-20",region,E12000005,West Midlands,254
+"2020-05-21",region,E12000009,South West,87
+"2020-05-19",region,E12000005,West Midlands,279
+"2020-05-18",region,E12000005,West Midlands,208
+"2020-05-20",region,E12000009,South West,137
+"2020-05-17",region,E12000005,West Midlands,172
+"2020-05-16",region,E12000005,West Midlands,175
+"2020-05-19",region,E12000009,South West,108
+"2020-05-18",region,E12000009,South West,119
+"2020-05-17",region,E12000009,South West,97
+"2020-05-16",region,E12000009,South West,92
+"2020-05-15",region,E12000005,West Midlands,266
+"2020-05-14",region,E12000005,West Midlands,257
+"2020-10-09",region,E12000004,East Midlands,1439
+"2020-05-13",region,E12000005,West Midlands,244
+"2020-05-15",region,E12000009,South West,104
+"2020-05-14",region,E12000009,South West,94
+"2020-05-13",region,E12000009,South West,177
+"2020-05-12",region,E12000005,West Midlands,309
+"2020-05-11",region,E12000005,West Midlands,250
+"2020-10-08",region,E12000004,East Midlands,1935
+"2020-10-07",region,E12000004,East Midlands,1701
+"2020-05-10",region,E12000005,West Midlands,218
+"2020-05-09",region,E12000005,West Midlands,163
+"2020-05-08",region,E12000005,West Midlands,341
+"2020-05-12",region,E12000009,South West,178
+"2020-05-11",region,E12000009,South West,254
+"2020-05-10",region,E12000009,South West,134
+"2020-05-09",region,E12000009,South West,107
+"2020-05-08",region,E12000009,South West,178
+"2020-05-07",region,E12000009,South West,180
+"2020-05-07",region,E12000005,West Midlands,369
+"2020-05-06",region,E12000005,West Midlands,314
+"2020-05-05",region,E12000005,West Midlands,318
+"2020-05-06",region,E12000009,South West,200
+"2020-10-06",region,E12000004,East Midlands,1502
+"2020-05-05",region,E12000009,South West,172
+"2020-05-04",region,E12000009,South West,165
+"2020-05-04",region,E12000005,West Midlands,237
+"2020-05-03",region,E12000005,West Midlands,297
+"2020-05-02",region,E12000005,West Midlands,319
+"2020-05-01",region,E12000005,West Midlands,471
+"2020-04-30",region,E12000005,West Midlands,451
+"2020-10-05",region,E12000004,East Midlands,1568
+"2020-10-04",region,E12000004,East Midlands,1158
+"2020-10-03",region,E12000004,East Midlands,1019
+"2020-10-02",region,E12000004,East Midlands,1200
+"2020-10-01",region,E12000004,East Midlands,1046
+"2020-09-30",region,E12000004,East Midlands,871
+"2020-09-29",region,E12000004,East Midlands,604
+"2020-09-28",region,E12000004,East Midlands,561
+"2020-09-27",region,E12000004,East Midlands,396
+"2020-09-26",region,E12000004,East Midlands,323
+"2020-09-25",region,E12000004,East Midlands,327
+"2020-04-29",region,E12000005,West Midlands,441
+"2020-04-28",region,E12000005,West Midlands,375
+"2020-04-27",region,E12000005,West Midlands,418
+"2020-04-26",region,E12000005,West Midlands,316
+"2020-04-25",region,E12000005,West Midlands,386
+"2020-04-24",region,E12000005,West Midlands,482
+"2020-04-23",region,E12000005,West Midlands,551
+"2020-04-22",region,E12000005,West Midlands,579
+"2020-04-21",region,E12000005,West Midlands,493
+"2020-05-03",region,E12000009,South West,176
+"2020-05-02",region,E12000009,South West,208
+"2020-09-24",region,E12000004,East Midlands,334
+"2020-09-23",region,E12000004,East Midlands,296
+"2020-09-22",region,E12000004,East Midlands,269
+"2020-09-21",region,E12000004,East Midlands,292
+"2020-09-20",region,E12000004,East Midlands,265
+"2020-09-19",region,E12000004,East Midlands,248
+"2020-09-18",region,E12000004,East Midlands,259
+"2020-04-20",region,E12000005,West Midlands,402
+"2020-09-17",region,E12000004,East Midlands,252
+"2020-09-16",region,E12000004,East Midlands,243
+"2020-04-19",region,E12000005,West Midlands,340
+"2020-05-01",region,E12000009,South West,265
+"2020-04-18",region,E12000005,West Midlands,548
+"2020-04-17",region,E12000005,West Midlands,445
+"2020-09-15",region,E12000004,East Midlands,206
+"2020-04-30",region,E12000009,South West,245
+"2020-09-14",region,E12000004,East Midlands,199
+"2020-04-16",region,E12000005,West Midlands,511
+"2020-04-15",region,E12000005,West Midlands,387
+"2020-04-29",region,E12000009,South West,348
+"2020-04-14",region,E12000005,West Midlands,322
+"2020-04-28",region,E12000009,South West,276
+"2020-04-13",region,E12000005,West Midlands,279
+"2020-04-12",region,E12000005,West Midlands,239
+"2020-04-11",region,E12000005,West Midlands,253
+"2020-04-10",region,E12000005,West Midlands,362
+"2020-04-09",region,E12000005,West Midlands,345
+"2020-04-08",region,E12000005,West Midlands,361
+"2020-04-07",region,E12000005,West Midlands,386
+"2020-04-06",region,E12000005,West Midlands,360
+"2020-04-05",region,E12000005,West Midlands,290
+"2020-04-04",region,E12000005,West Midlands,345
+"2020-04-27",region,E12000009,South West,321
+"2020-04-03",region,E12000005,West Midlands,372
+"2020-09-13",region,E12000004,East Midlands,123
+"2020-04-02",region,E12000005,West Midlands,449
+"2020-09-12",region,E12000004,East Midlands,141
+"2020-09-11",region,E12000004,East Midlands,218
+"2020-09-10",region,E12000004,East Midlands,207
+"2020-09-09",region,E12000004,East Midlands,252
+"2020-09-08",region,E12000004,East Midlands,311
+"2020-04-01",region,E12000005,West Midlands,409
+"2020-03-31",region,E12000005,West Midlands,414
+"2020-09-07",region,E12000004,East Midlands,343
+"2020-04-26",region,E12000009,South West,254
+"2020-04-25",region,E12000009,South West,200
+"2020-04-24",region,E12000009,South West,250
+"2020-04-23",region,E12000009,South West,281
+"2020-04-22",region,E12000009,South West,286
+"2020-03-30",region,E12000005,West Midlands,431
+"2020-03-29",region,E12000005,West Midlands,366
+"2020-03-28",region,E12000005,West Midlands,323
+"2020-03-27",region,E12000005,West Midlands,279
+"2020-03-26",region,E12000005,West Midlands,314
+"2020-04-21",region,E12000009,South West,228
+"2020-04-20",region,E12000009,South West,184
+"2020-04-19",region,E12000009,South West,201
+"2020-04-18",region,E12000009,South West,167
+"2020-04-17",region,E12000009,South West,239
+"2020-04-16",region,E12000009,South West,262
+"2020-04-15",region,E12000009,South West,211
+"2020-04-14",region,E12000009,South West,185
+"2020-04-13",region,E12000009,South West,194
+"2020-04-12",region,E12000009,South West,179
+"2020-03-25",region,E12000005,West Midlands,240
+"2020-04-11",region,E12000009,South West,172
+"2020-09-06",region,E12000004,East Midlands,135
+"2020-03-24",region,E12000005,West Midlands,250
+"2020-03-23",region,E12000005,West Midlands,240
+"2020-03-22",region,E12000005,West Midlands,111
+"2020-09-05",region,E12000004,East Midlands,166
+"2020-03-21",region,E12000005,West Midlands,125
+"2020-09-04",region,E12000004,East Midlands,182
+"2020-09-03",region,E12000004,East Midlands,234
+"2020-09-02",region,E12000004,East Midlands,244
+"2020-04-10",region,E12000009,South West,234
+"2020-04-09",region,E12000009,South West,246
+"2020-03-20",region,E12000005,West Midlands,151
+"2020-03-19",region,E12000005,West Midlands,123
+"2020-09-01",region,E12000004,East Midlands,158
+"2020-08-31",region,E12000004,East Midlands,87
+"2020-03-18",region,E12000005,West Midlands,99
+"2020-04-08",region,E12000009,South West,237
+"2020-03-17",region,E12000005,West Midlands,69
+"2020-04-07",region,E12000009,South West,212
+"2020-04-06",region,E12000009,South West,185
+"2020-04-05",region,E12000009,South West,153
+"2020-08-30",region,E12000004,East Midlands,61
+"2020-08-29",region,E12000004,East Midlands,48
+"2020-04-04",region,E12000009,South West,174
+"2020-04-03",region,E12000009,South West,191
+"2020-03-16",region,E12000005,West Midlands,56
+"2020-08-28",region,E12000004,East Midlands,95
+"2020-03-15",region,E12000005,West Midlands,44
+"2020-04-02",region,E12000009,South West,183
+"2020-08-27",region,E12000004,East Midlands,83
+"2020-03-14",region,E12000005,West Midlands,31
+"2020-03-13",region,E12000005,West Midlands,40
+"2020-03-12",region,E12000005,West Midlands,47
+"2020-03-11",region,E12000005,West Midlands,29
+"2020-03-10",region,E12000005,West Midlands,17
+"2020-03-09",region,E12000005,West Midlands,8
+"2020-08-26",region,E12000004,East Midlands,91
+"2020-08-25",region,E12000004,East Midlands,73
+"2020-04-01",region,E12000009,South West,183
+"2020-03-08",region,E12000005,West Midlands,4
+"2020-03-31",region,E12000009,South West,142
+"2020-03-07",region,E12000005,West Midlands,6
+"2020-08-24",region,E12000004,East Midlands,88
+"2020-08-23",region,E12000004,East Midlands,52
+"2020-08-22",region,E12000004,East Midlands,49
+"2020-08-21",region,E12000004,East Midlands,101
+"2020-08-20",region,E12000004,East Midlands,100
+"2020-08-19",region,E12000004,East Midlands,101
+"2020-08-18",region,E12000004,East Midlands,77
+"2020-03-06",region,E12000005,West Midlands,2
+"2020-08-17",region,E12000004,East Midlands,138
+"2020-03-05",region,E12000005,West Midlands,6
+"2020-08-16",region,E12000004,East Midlands,58
+"2020-03-04",region,E12000005,West Midlands,3
+"2020-03-30",region,E12000009,South West,164
+"2020-08-15",region,E12000004,East Midlands,55
+"2020-08-14",region,E12000004,East Midlands,87
+"2020-03-03",region,E12000005,West Midlands,1
+"2020-03-29",region,E12000009,South West,101
+"2020-03-02",region,E12000005,West Midlands,4
+"2020-08-13",region,E12000004,East Midlands,109
+"2020-03-28",region,E12000009,South West,102
+"2020-03-01",region,E12000005,West Midlands,2
+"2020-03-27",region,E12000009,South West,128
+"2020-02-29",region,E12000005,West Midlands,0
+"2020-03-26",region,E12000009,South West,119
+"2020-03-25",region,E12000009,South West,104
+"2020-03-24",region,E12000009,South West,68
+"2020-03-23",region,E12000009,South West,62
+"2020-03-22",region,E12000009,South West,44
+"2020-02-28",region,E12000005,West Midlands,0
+"2020-02-27",region,E12000005,West Midlands,0
+"2020-02-26",region,E12000005,West Midlands,0
+"2020-02-25",region,E12000005,West Midlands,0
+"2020-02-24",region,E12000005,West Midlands,0
+"2020-02-23",region,E12000005,West Midlands,0
+"2020-02-22",region,E12000005,West Midlands,1
+"2020-03-21",region,E12000009,South West,42
+"2020-03-20",region,E12000009,South West,43
+"2020-08-12",region,E12000004,East Midlands,119
+"2020-08-11",region,E12000004,East Midlands,176
+"2020-03-19",region,E12000009,South West,21
+"2020-03-18",region,E12000009,South West,44
+"2020-03-17",region,E12000009,South West,21
+"2020-03-16",region,E12000009,South West,18
+"2020-03-15",region,E12000009,South West,17
+"2020-03-14",region,E12000009,South West,10
+"2020-03-13",region,E12000009,South West,30
+"2020-08-10",region,E12000004,East Midlands,211
+"2020-03-12",region,E12000009,South West,18
+"2020-03-11",region,E12000009,South West,14
+"2020-03-10",region,E12000009,South West,11
+"2020-03-09",region,E12000009,South West,5
+"2020-03-08",region,E12000009,South West,3
+"2020-08-09",region,E12000004,East Midlands,72
+"2020-08-08",region,E12000004,East Midlands,74
+"2020-08-07",region,E12000004,East Midlands,92
+"2020-03-07",region,E12000009,South West,5
+"2020-03-06",region,E12000009,South West,11
+"2020-03-05",region,E12000009,South West,3
+"2020-08-06",region,E12000004,East Midlands,113
+"2020-08-05",region,E12000004,East Midlands,114
+"2020-03-04",region,E12000009,South West,6
+"2020-03-03",region,E12000009,South West,10
+"2020-08-04",region,E12000004,East Midlands,88
+"2020-08-03",region,E12000004,East Midlands,108
+"2020-08-02",region,E12000004,East Midlands,54
+"2020-03-02",region,E12000009,South West,8
+"2020-08-01",region,E12000004,East Midlands,69
+"2020-07-31",region,E12000004,East Midlands,75
+"2020-07-30",region,E12000004,East Midlands,111
+"2020-07-29",region,E12000004,East Midlands,108
+"2020-07-28",region,E12000004,East Midlands,77
+"2020-07-27",region,E12000004,East Midlands,92
+"2020-07-26",region,E12000004,East Midlands,38
+"2020-07-25",region,E12000004,East Midlands,44
+"2020-03-01",region,E12000009,South West,3
+"2020-07-24",region,E12000004,East Midlands,83
+"2020-07-23",region,E12000004,East Midlands,94
+"2020-07-22",region,E12000004,East Midlands,88
+"2020-07-21",region,E12000004,East Midlands,68
+"2020-07-20",region,E12000004,East Midlands,82
+"2020-07-19",region,E12000004,East Midlands,48
+"2020-07-18",region,E12000004,East Midlands,63
+"2020-07-17",region,E12000004,East Midlands,80
+"2020-02-29",region,E12000009,South West,0
+"2020-07-16",region,E12000004,East Midlands,92
+"2020-07-15",region,E12000004,East Midlands,112
+"2020-02-28",region,E12000009,South West,0
+"2020-02-27",region,E12000009,South West,1
+"2020-02-26",region,E12000009,South West,1
+"2020-07-14",region,E12000004,East Midlands,89
+"2020-07-13",region,E12000004,East Midlands,104
+"2020-07-12",region,E12000004,East Midlands,46
+"2020-07-11",region,E12000004,East Midlands,94
+"2020-07-10",region,E12000004,East Midlands,98
+"2020-07-09",region,E12000004,East Midlands,94
+"2020-07-08",region,E12000004,East Midlands,110
+"2020-07-07",region,E12000004,East Midlands,108
+"2020-07-06",region,E12000004,East Midlands,139
+"2020-07-05",region,E12000004,East Midlands,127
+"2020-07-04",region,E12000004,East Midlands,84
+"2020-07-03",region,E12000004,East Midlands,108
+"2020-07-02",region,E12000004,East Midlands,105
+"2020-07-01",region,E12000004,East Midlands,120
+"2020-06-30",region,E12000004,East Midlands,129
+"2020-06-29",region,E12000004,East Midlands,129
+"2020-06-28",region,E12000004,East Midlands,78
+"2020-06-27",region,E12000004,East Midlands,87
+"2020-06-26",region,E12000004,East Midlands,114
+"2020-06-25",region,E12000004,East Midlands,126
+"2020-06-24",region,E12000004,East Midlands,173
+"2020-06-23",region,E12000004,East Midlands,170
+"2020-06-22",region,E12000004,East Midlands,177
+"2020-06-21",region,E12000004,East Midlands,131
+"2020-06-20",region,E12000004,East Midlands,145
+"2020-06-19",region,E12000004,East Midlands,153
+"2020-06-18",region,E12000004,East Midlands,169
+"2020-06-17",region,E12000004,East Midlands,164
+"2020-06-16",region,E12000004,East Midlands,161
+"2020-06-15",region,E12000004,East Midlands,165
+"2020-06-14",region,E12000004,East Midlands,144
+"2020-06-13",region,E12000004,East Midlands,132
+"2020-06-12",region,E12000004,East Midlands,173
+"2020-06-11",region,E12000004,East Midlands,182
+"2020-06-10",region,E12000004,East Midlands,166
+"2020-06-09",region,E12000004,East Midlands,177
+"2020-06-08",region,E12000004,East Midlands,174
+"2020-06-07",region,E12000004,East Midlands,127
+"2020-06-06",region,E12000004,East Midlands,105
+"2020-06-05",region,E12000004,East Midlands,155
+"2020-06-04",region,E12000004,East Midlands,143
+"2020-06-03",region,E12000004,East Midlands,174
+"2020-06-02",region,E12000004,East Midlands,218
+"2020-06-01",region,E12000004,East Midlands,217
+"2020-05-31",region,E12000004,East Midlands,149
+"2020-05-30",region,E12000004,East Midlands,139
+"2020-05-29",region,E12000004,East Midlands,170
+"2020-05-28",region,E12000004,East Midlands,191
+"2020-05-27",region,E12000004,East Midlands,197
+"2020-05-26",region,E12000004,East Midlands,160
+"2020-05-25",region,E12000004,East Midlands,192
+"2020-05-24",region,E12000004,East Midlands,145
+"2020-05-23",region,E12000004,East Midlands,164
+"2020-05-22",region,E12000004,East Midlands,240
+"2020-05-20",region,E12000004,East Midlands,274
+"2020-05-19",region,E12000004,East Midlands,293
+"2020-05-18",region,E12000004,East Midlands,271
+"2020-05-17",region,E12000004,East Midlands,203
+"2020-05-16",region,E12000004,East Midlands,256
+"2020-05-15",region,E12000004,East Midlands,252
+"2020-05-14",region,E12000004,East Midlands,226
+"2020-05-13",region,E12000004,East Midlands,298
+"2020-05-12",region,E12000004,East Midlands,322
+"2020-05-11",region,E12000004,East Midlands,307
+"2020-05-10",region,E12000004,East Midlands,199
+"2020-05-09",region,E12000004,East Midlands,176
+"2020-05-08",region,E12000004,East Midlands,268
+"2020-05-07",region,E12000004,East Midlands,312
+"2020-05-06",region,E12000004,East Midlands,334
+"2020-05-05",region,E12000004,East Midlands,284
+"2020-05-04",region,E12000004,East Midlands,235
+"2020-05-03",region,E12000004,East Midlands,169
+"2020-05-02",region,E12000004,East Midlands,198
+"2020-05-01",region,E12000004,East Midlands,294
+"2020-04-30",region,E12000004,East Midlands,294
+"2020-04-29",region,E12000004,East Midlands,378
+"2020-04-28",region,E12000004,East Midlands,272
+"2020-04-27",region,E12000004,East Midlands,319
+"2020-04-26",region,E12000004,East Midlands,242
+"2020-04-25",region,E12000004,East Midlands,246
+"2020-04-24",region,E12000004,East Midlands,298
+"2020-04-23",region,E12000004,East Midlands,269
+"2020-04-22",region,E12000004,East Midlands,334
+"2020-04-21",region,E12000004,East Midlands,219
+"2020-04-20",region,E12000004,East Midlands,187
+"2020-04-19",region,E12000004,East Midlands,246
+"2020-04-18",region,E12000004,East Midlands,195
+"2020-04-17",region,E12000004,East Midlands,255
+"2020-04-16",region,E12000004,East Midlands,267
+"2020-04-15",region,E12000004,East Midlands,217
+"2020-04-14",region,E12000004,East Midlands,210
+"2020-04-13",region,E12000004,East Midlands,172
+"2020-04-12",region,E12000004,East Midlands,214
+"2020-04-11",region,E12000004,East Midlands,174
+"2020-04-10",region,E12000004,East Midlands,172
+"2020-04-09",region,E12000004,East Midlands,233
+"2020-04-08",region,E12000004,East Midlands,187
+"2020-04-07",region,E12000004,East Midlands,228
+"2020-04-06",region,E12000004,East Midlands,214
+"2020-04-05",region,E12000004,East Midlands,149
+"2020-04-04",region,E12000004,East Midlands,189
+"2020-04-03",region,E12000004,East Midlands,259
+"2020-04-02",region,E12000004,East Midlands,212
+"2020-04-01",region,E12000004,East Midlands,295
+"2020-03-31",region,E12000004,East Midlands,277
+"2020-03-30",region,E12000004,East Midlands,206
+"2020-03-29",region,E12000004,East Midlands,129
+"2020-03-28",region,E12000004,East Midlands,158
+"2020-03-27",region,E12000004,East Midlands,137
+"2020-03-26",region,E12000004,East Midlands,155
+"2020-03-25",region,E12000004,East Midlands,116
+"2020-03-24",region,E12000004,East Midlands,135
+"2020-03-23",region,E12000004,East Midlands,117
+"2020-03-22",region,E12000004,East Midlands,99
+"2020-03-21",region,E12000004,East Midlands,69
+"2020-03-20",region,E12000004,East Midlands,53
+"2020-03-19",region,E12000004,East Midlands,66
+"2020-03-18",region,E12000004,East Midlands,48
+"2020-03-17",region,E12000004,East Midlands,33
+"2020-03-16",region,E12000004,East Midlands,34
+"2020-03-15",region,E12000004,East Midlands,26
+"2020-03-14",region,E12000004,East Midlands,19
+"2020-03-13",region,E12000004,East Midlands,22
+"2020-03-12",region,E12000004,East Midlands,17
+"2020-03-11",region,E12000004,East Midlands,25
+"2020-03-10",region,E12000004,East Midlands,12
+"2020-03-09",region,E12000004,East Midlands,10
+"2020-03-08",region,E12000004,East Midlands,1
+"2020-03-07",region,E12000004,East Midlands,5
+"2020-03-06",region,E12000004,East Midlands,7
+"2020-03-05",region,E12000004,East Midlands,3
+"2020-03-04",region,E12000004,East Midlands,2
+"2020-03-03",region,E12000004,East Midlands,7
+"2020-03-02",region,E12000004,East Midlands,2
+"2020-03-01",region,E12000004,East Midlands,1
+"2020-02-29",region,E12000004,East Midlands,1
+"2020-02-28",region,E12000004,East Midlands,1
+"2020-02-27",region,E12000004,East Midlands,0
+"2020-02-26",region,E12000004,East Midlands,0
+"2020-02-25",region,E12000004,East Midlands,1
+"2020-02-24",region,E12000004,East Midlands,0
+"2020-02-23",region,E12000004,East Midlands,0
+"2020-02-22",region,E12000004,East Midlands,0
+"2020-02-21",region,E12000004,East Midlands,1
+"2020-05-21",region,E12000004,East Midlands,281
